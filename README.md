@@ -1,19 +1,18 @@
 🚀 PALLE PRASHANTH
-📊 Aspiring Data Analyst | Python • SQL • Power BI
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Data+Analyst+Enthusiast;Turning+Data+into+Insights;Open+to+Internships;5%2B+Projects+Completed" /> </p>
-👨‍💻 About Me
+📊 Data Analyst | Python • SQL • Power BI
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;5%2B+Real+Projects;Python+%7C+SQL+%7C+Power+BI;Open+to+Internships" /> </p>
+🎯 ABOUT ME
 
-🎓 B.Tech 1st Year — RSR Engineering College, Kavali
+🎓 B.Tech (1st Year) — RSR Engineering College, Kavali
 📊 Intermediate Data Analyst
 
-💡 I have completed 5 real-world data analysis projects and built strong skills in extracting insights from data.
+💡 I specialize in data analysis, visualization, and extracting insights from real-world datasets.
 
-✨ "I am highly motivated to learn, build, and contribute to real-world data-driven solutions."
+✨ Completed 5 real-world projects using Python & Power BI.
 
-🚀 I am currently looking for a Data Analyst Internship to gain experience and grow professionally.
-💯 I assure you — I will give my full dedication and effort if given an opportunity.
+🌟 "I am a learner, builder, and problem-solver — ready to grow with real-world experience."
 
-📬 Contact Me
+📬 CONTACT
 
 📧 Email: palleprashanthp4@gmail.com
 
@@ -25,53 +24,38 @@
 🔗 LinkedIn:
 👉 https://www.linkedin.com
 
-🧠 Skills
+🧠 SKILLS
 🖥 Programming
-
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
 📚 Libraries
-
-
-
-
-
-
-
-
-
-
+<p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/> </p>
 📊 Data Visualization
-
-
-
-
+<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/> </p>
 🗄 Database & Storage
-
-
-CSV • Excel • Data Cleaning
-
-📂 📊 Data Portfolio
+<p> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database"/> </p>
+📂 DATA PORTFOLIO
 🦠 1. COVID-19 Data Analysis
 
 🔗 https://github.com/palleprashanthp4-dev/Covid-19-Analysis-Project
 
 📌 Overview
 
-Analyzed global COVID-19 data to uncover trends and predict future cases.
+Analyzed global COVID-19 datasets to identify trends and predict future spread.
 
 ⚙️ Work Done
 
 ✔ Data Cleaning & EDA
-✔ Data Visualization (Matplotlib, Seaborn)
+✔ Data Visualization
 ✔ Statistical Analysis
-✔ Time-Series Forecasting & Regression
+✔ Predictive Modeling
 
-🧠 Key Insights
+🧠 Insights
 
-Infection & recovery trends across countries
+Global infection & recovery trends
 
 Impact of lockdowns
 
-Future prediction models
+Future case predictions
 
 👨‍💼 2. Employee Performance Analysis
 
@@ -79,22 +63,22 @@ Future prediction models
 
 📌 Overview
 
-Analyzed employee productivity, attendance, and performance trends.
+Analyzed employee productivity and performance patterns.
 
 ⚙️ Work Done
 
-✔ Department-wise productivity analysis
-✔ Correlation analysis (Ratings vs Absences)
-✔ Monthly performance tracking
-✔ Top employee identification
+✔ Department productivity analysis
+✔ Correlation (ratings vs absence)
+✔ Monthly trends
+✔ Top employees
 
-🧠 Key Insights
+🧠 Insights
 
 Attendance strongly affects performance
 
-Support & Sales → highest productivity
+Support & Sales → high productivity
 
-Stable productivity trends
+Stable performance trends
 
 🎓 3. Student Performance Dashboard (Power BI)
 
@@ -102,22 +86,20 @@ Stable productivity trends
 
 📌 Overview
 
-Built an interactive Power BI dashboard for student analysis.
+Built interactive Power BI dashboard for student analysis.
 
 ⚙️ Features
 
-✔ KPIs (Pass %, Avg Marks, Toppers)
+✔ KPIs & dashboard
 ✔ Subject-wise insights
-✔ Mark distribution analysis
-✔ Interactive filters
+✔ Mark distribution
+✔ Filters & slicers
 
 🧠 Insights
 
-Student performance trends
+Performance trends
 
-Top & bottom performers
-
-Subject-level insights
+Top & low performers
 
 🏥 4. Hospital Data Analysis Dashboard
 
@@ -125,24 +107,21 @@ Subject-level insights
 
 📌 Overview
 
-Advanced multi-dashboard analytics with predictive insights.
+Advanced dashboard with predictive analytics.
 
 ⚙️ Work Done
 
-✔ Cost & treatment analysis
+✔ Cost analysis
 ✔ Readmission prediction
-✔ Regression modeling
-✔ Forecasting future trends
+✔ Forecasting
 
-🧠 Key Insights
+🧠 Insights
 
-Cancer → ~40% cost concentration
+Cancer → major cost driver
 
-Heart diseases → highest readmission
+Heart diseases → high readmission
 
-Costs increase with age
-
-Stable hospital demand forecast
+Cost increases with age
 
 🌐 5. Web Scraping & Data Analysis
 
@@ -150,35 +129,35 @@ Stable hospital demand forecast
 
 📌 Overview
 
-Scraped and analyzed data from Wikipedia (largest companies in India).
+Scraped and analyzed data from Wikipedia.
 
 ⚙️ Work Done
 
-✔ Web scraping using Python
-✔ Data cleaning & transformation
+✔ Web scraping
+✔ Data cleaning
 ✔ Analysis using Pandas
 
 🧠 Outcome
 
-Converted raw web data into structured insights
+Raw data → meaningful insights
 
-📊 GitHub Stats
+📊 GITHUB STATS
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=palleprashanthp4-dev&theme=tokyonight" /> </p>
-🎯 Career Objective
+🎯 CAREER OBJECTIVE
 
-🎯 To start my journey as a Data Analyst Intern
+🎯 Seeking Data Analyst Internship
 📈 Gain real-world experience
-🚀 Build impactful data-driven solutions
+🚀 Build impactful solutions
 
-💬 Inspiration
+💬 INSPIRATION
 
-🌟 "Consistency is more powerful than talent."
-📊 "Data is the new oil, but insights drive decisions."
-🚀 "Learn → Build → Improve → Repeat"
+🌟 "Consistency beats talent."
+📊 "Data → Insights → Decisions"
+🚀 "Learn → Build → Grow"
 
-⭐ Final Note
+⭐ FINAL NOTE
 
-🙏 Thank you for visiting my profile!
-💼 I am open to internships and opportunities
+🙏 Thank you for visiting my profile
+💼 Open to opportunities
 
-👉 If you like my work, please give a ⭐ to my repositories!
+👉 Give a ⭐ if you like my work!
