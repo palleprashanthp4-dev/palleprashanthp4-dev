@@ -9,15 +9,16 @@
 </a>
 
 <br><br>
+<div align="left">
+  
 <h2>Live Website:</h2>
 
 <a href="https://palle-prashanth-portfolio.space-z.ai" target="_blank">
-  <mark>
   palle-prashanth-portfolio
-    
-  </mark>
+  
 </a>
 
+</div>
 </div>
 🚀 PALLE PRASHANTH
 📊 Data Analyst | Python • SQL • Power BI
