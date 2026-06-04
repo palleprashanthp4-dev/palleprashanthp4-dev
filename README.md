@@ -5,7 +5,7 @@
 ### Data Analyst Portfolio
 
 <a href="https://palle-prashanth-portfolio.space-z.ai">
-  <img src="C:\Users\user\Pictures\Screenshots\Screenshot 2026-06-04 133102.png" width="800" alt="Portfolio Preview"/>
+  <img src="https://github.com/palleprashanthp4-dev/palleprashanthp4-dev/blob/main/Screenshot%202026-06-04%20133102.png" width="800" alt="Portfolio Preview"/>
 </a>
 
 <br><br>
