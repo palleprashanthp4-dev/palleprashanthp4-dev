@@ -161,3 +161,10 @@ Raw data → meaningful insights
 💼 Open to opportunities
 
 👉 Give a ⭐ if you like my work!
+## 🌐 Live Portfolio
+
+<a href="https://palle-prashanth-portfolio.space-z.ai" target="_blank">
+  <img src="./assets/portfolio-preview.png" alt="Portfolio Preview" width="100%">
+</a>
+
+🔗 Live Demo: https://palle-prashanth-portfolio.space-z.ai
