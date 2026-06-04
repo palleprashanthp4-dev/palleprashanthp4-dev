@@ -9,9 +9,11 @@
 </a>
 
 <br><br>
+<h2>Live Website:</h2>
 
-🚀 Live Website:  
-https://palle-prashanth-portfolio.space-z.ai
+<a href="https://palle-prashanth-portfolio.space-z.ai" target="_blank">
+  🚀 Live Portfolio Website
+</a>
 
 </div>
 🚀 PALLE PRASHANTH
