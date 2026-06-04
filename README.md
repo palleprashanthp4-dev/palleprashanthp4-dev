@@ -12,7 +12,7 @@
 <br><br>
 <div align="left">
   
-<h2 align="right">Live Website:</h2>
+<h2 align="left">🚀Live Website:</h2>
 
 <a href="https://palle-prashanth-portfolio.space-z.ai" target="_blank">
   palle-prashanth-portfolio
@@ -20,6 +20,7 @@
 </div>
 <br>
 <hr>
+<br><br>
 🚀 PALLE PRASHANTH
 📊 Data Analyst | Python • SQL • Power BI
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;5%2B+Real+Projects;Python+%7C+SQL+%7C+Power+BI;Open+to+Internships" /> </p>
