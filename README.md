@@ -1,3 +1,19 @@
+<div align="center">
+
+# 👋 Hi, I'm Prashanth
+
+### Data Analyst Portfolio
+
+<a href="https://palle-prashanth-portfolio.space-z.ai">
+  <img src="./assets/portfolio-preview.png" width="800" alt="Portfolio Preview"/>
+</a>
+
+<br><br>
+
+🚀 Live Website:  
+https://palle-prashanth-portfolio.space-z.ai
+
+</div>
 🚀 PALLE PRASHANTH
 📊 Data Analyst | Python • SQL • Power BI
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;5%2B+Real+Projects;Python+%7C+SQL+%7C+Power+BI;Open+to+Internships" /> </p>
