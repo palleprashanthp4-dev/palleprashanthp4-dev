@@ -7,16 +7,19 @@
 <a href="https://palle-prashanth-portfolio.space-z.ai">
   <img src="https://github.com/palleprashanthp4-dev/palleprashanthp4-dev/blob/main/Screenshot%202026-06-04%20133102.png" width="800" alt="Portfolio Preview"/>
 </a>
+</div>
 
 <br><br>
+<div align="left">
   
-<h2>Live Website:</h2>
+<h2 align="right">Live Website:</h2>
 
-<a href="https://palle-prashanth-portfolio.space-z.ai" target="_blank" align="left">
+<a href="https://palle-prashanth-portfolio.space-z.ai" target="_blank">
   palle-prashanth-portfolio
 </a>
 </div>
-<br><br>
+<br>
+<hr>
 🚀 PALLE PRASHANTH
 📊 Data Analyst | Python • SQL • Power BI
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;5%2B+Real+Projects;Python+%7C+SQL+%7C+Power+BI;Open+to+Internships" /> </p>
