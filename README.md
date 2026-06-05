@@ -26,7 +26,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;5%2B+Real+Projects;Python+%7C+SQL+%7C+Power+BI;Open+to+Internships" /> </p>
 🎯 ABOUT ME
 
-🎓 B.Tech (1st Year) — RSR Engineering College, Kavali
+🎓 B.Tech (2nd Year) — RSR Engineering College, Kavali
 📊 Intermediate Data Analyst
 
 💡 I specialize in data analysis, visualization, and extracting insights from real-world datasets.
