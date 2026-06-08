@@ -1,65 +1,151 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00F7FF&text=Prashanth%20Palle&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Data%20Analyst%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:00F7FF&text=Prashanth%20Palle&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Data%20Analyst%20|%20AI%20%26%20Data%20Science%20Student&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <h1>
 <em><strong>📊 Data Analyst Portfolio</strong></em>
 </h1>
 
 <p>
-<i>Transforming Raw Data into Meaningful Business Insights</i>
+<i>Transforming Raw Data Into Actionable Insights & Intelligent Decisions</i>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Prashanth+Palle;Aspiring+Data+Analyst;Artificial+Intelligence+%26+Data+Science+Student;Power+BI+%7C+Python+%7C+SQL+%7C+Excel;Turning+Data+Into+Decisions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Prashanth+Palle;Aspiring+Data+Analyst;Artificial+Intelligence+%26+Data+Science+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Business+Insights;Open+to+Internship+Opportunities"/>
+
+<br>
+
+<a href="mailto:palleprashanthp4@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/palleprashanthp4-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🌟 About Me
+# 🌐 <em>Professional Portfolio Website</em>
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZ1c3d0c3k4eGd4eTJmYW44ZWxjbnM1OWM2NnN0ZnM4d2lnaTg5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<div align="center">
 
-### *👋 Hi, I'm Prashanth Palle*
+### <i>Explore My Complete Data Analytics Portfolio</i>
 
-🎓 **2nd Year B.Tech Student**
-🏫 **Artificial Intelligence & Data Science**
-📍 RSR Engineering College, Kavali
+<a href="https://palle-prashanth-portfolio.space-z.ai/">
+<img src="https://github.com/palleprashanthp4-dev/palleprashanthp4-dev/blob/main/Screenshot%202026-06-04%20133102.png" width="100%" alt="Portfolio Preview"/>
+</a>
 
-I am passionate about analyzing data, discovering trends, and creating dashboards that help organizations make better decisions.
+<br><br>
 
-### 💡 My Mission
+<a href="https://palle-prashanth-portfolio.space-z.ai/">
+<img src="https://img.shields.io/badge/🚀_Live_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
 
-> *"Without data, you're just another person with an opinion."*
-> — W. Edwards Deming
+</div>
 
-I enjoy working with datasets, building visualizations, and converting complex information into clear insights.
+<p align="center">
+<i>
+A modern portfolio showcasing my Data Analytics projects, dashboards,
+technical skills, GitHub activity, and professional journey.
+</i>
+</p>
 
 ---
 
-## 🚀 Technical Skills
+# 🌟 About Me
 
-### 📊 Data Analytics
+<img align="right" width="350" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+### <em>👋 Hi, I'm Prashanth Palle</em>
+
+🎓 **2nd Year B.Tech Student**
+
+🏫 **Artificial Intelligence & Data Science**
+
+📍 **RSR Engineering College, Kavali**
+
+I am passionate about Data Analytics, Business Intelligence, Data Visualization, and extracting meaningful insights from complex datasets.
+
+My goal is to help organizations make data-driven decisions through analytics, dashboards, and storytelling.
+
+---
+
+## 💡 Career Objective
+
+<div align="center">
+
+### <em>"Data → Insights → Decisions"</em>
+
+<i>
+Seeking opportunities where I can apply analytical thinking,
+problem-solving abilities, and technical skills to create measurable impact.
+</i>
+
+</div>
+
+---
+
+# 💼 Why Recruiters Should Notice Me
+
+✔ Strong foundation in Artificial Intelligence & Data Science
+
+✔ Hands-on experience with Python, SQL, Excel & Power BI
+
+✔ Built 5+ Real-World Data Analytics Projects
+
+✔ Experience in Data Cleaning & Exploratory Data Analysis
+
+✔ Strong Business Intelligence & Dashboard Development Skills
+
+✔ Continuous Learner & Problem Solver
+
+✔ Open to Internship Opportunities
+
+---
+
+# 🚀 Technical Skills
+
+## 📊 Data Analytics
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### 🐍 Programming
+---
+
+## 🐍 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### 📚 Libraries
+---
+
+## 📚 Libraries
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge)
+
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### ⚙️ Tools
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+---
+
+## ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
 
 ---
@@ -68,13 +154,11 @@ I enjoy working with datasets, building visualizations, and converting complex i
 
 ## 🦠 COVID-19 Data Analysis
 
-### Key Highlights
-
-✔ Data Cleaning
-✔ Exploratory Data Analysis
-✔ Trend Identification
-✔ Statistical Insights
-✔ Data Visualization
+* Data Cleaning
+* Exploratory Data Analysis
+* Trend Identification
+* Statistical Insights
+* Data Visualization
 
 🔗 Repository:
 https://github.com/palleprashanthp4-dev/Covid-19-Analysis-Project
@@ -83,12 +167,10 @@ https://github.com/palleprashanthp4-dev/Covid-19-Analysis-Project
 
 ## 👨‍💼 Employee Performance Analysis
 
-### Key Highlights
-
-✔ Employee Productivity Analysis
-✔ Attendance Insights
-✔ Department-wise Performance
-✔ KPI Tracking
+* Employee Productivity Analysis
+* Attendance Insights
+* Department Performance
+* KPI Tracking
 
 🔗 Repository:
 https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project
@@ -97,12 +179,10 @@ https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project
 
 ## 🎓 Student Performance Dashboard
 
-### Key Highlights
-
-✔ Academic KPI Dashboard
-✔ Dynamic Filters & Slicers
-✔ Performance Tracking
-✔ Interactive Visualizations
+* KPI Dashboard
+* Dynamic Filters
+* Performance Tracking
+* Interactive Reports
 
 🔗 Repository:
 https://github.com/palleprashanthp4-dev/student-performance-analysis
@@ -111,12 +191,10 @@ https://github.com/palleprashanthp4-dev/student-performance-analysis
 
 ## 🏥 Hospital Analytics Dashboard
 
-### Key Highlights
-
-✔ Patient Analytics
-✔ Cost Analysis
-✔ Readmission Insights
-✔ Department Performance Metrics
+* Patient Analytics
+* Cost Analysis
+* Readmission Insights
+* Department Metrics
 
 🔗 Repository:
 https://github.com/palleprashanthp4-dev/Hospital--Analysis--Project
@@ -125,12 +203,10 @@ https://github.com/palleprashanthp4-dev/Hospital--Analysis--Project
 
 ## 🌐 Web Scraping Data Analysis
 
-### Key Highlights
-
-✔ Automated Data Collection
-✔ Data Cleaning Pipelines
-✔ Structured Data Generation
-✔ Pandas-Based Processing
+* Automated Data Collection
+* Data Cleaning
+* Data Processing
+* Structured Dataset Creation
 
 🔗 Repository:
 https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
@@ -151,15 +227,41 @@ https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 
 ---
 
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palleprashanthp4-dev&theme=tokyo-night"/>
+
+</div>
+
+---
+
 # 📫 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:palleprashanthp4@gmail.com)
+<a href="mailto:palleprashanthp4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/palleprashanthp4-dev)
+<a href="https://github.com/palleprashanthp4-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -167,9 +269,15 @@ https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 
 <div align="center">
 
-### <i>"Data is the new oil, but insights are the refined fuel."</i>
+### <em>"Without data, you're just another person with an opinion."</em>
 
-⭐ <b>If you like my projects, don't forget to star them!</b>
+<i>— W. Edwards Deming</i>
+
+<br><br>
+
+⭐ <b>If you like my projects, don't forget to star my repositories!</b>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=120&section=footer"/>
 
