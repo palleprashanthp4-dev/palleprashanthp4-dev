@@ -1,6 +1,6 @@
-# <div align="center">
+<img width="450" height="112" alt="image" src="https://github.com/user-attachments/assets/6fd45aca-d593-453b-800a-461285538914" /># <div align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-c-X88H6SmYxh0_zaBL1HcqrZssm_QHRGQ&s" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFtQm1V5xx7_w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1710870009359?e=2147483647&v=beta&t=cIZvlOB6_rB053_id6XabKgAprryKmT20PYaSfkCl_A" width="100%"/>
 
 <h1>
 <em><strong>📊 Data Analyst Portfolio</strong></em>
