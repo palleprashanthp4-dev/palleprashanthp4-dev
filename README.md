@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://www.google.com/imgres?q=linkedin%20background%20banner%20data%20analytics&imgurl=https%3A%2F%2Fimg.magnific.com%2Fpremium-photo%2Fdata-analysis-business-finance-concept-uds_31965-345938.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.magnific.com%2Ffree-photos-vectors%2Flinkedin-banner-data-analysis&docid=UIA7Z5Dp7iwUIM&tbnid=KaNmsryXEKbiIM&vet=12ahUKEwidkf-vgfiUAxW1aHADHXwaLKkQnPAOegQIGxAB..i&w=740&h=259&hcb=2&ved=2ahUKEwidkf-vgfiUAxW1aHADHXwaLKkQnPAOegQIGxAB" width="100%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-c-X88H6SmYxh0_zaBL1HcqrZssm_QHRGQ&s" width="100%"/>
 
 <h1>
 <em><strong>📊 Data Analyst Portfolio</strong></em>
