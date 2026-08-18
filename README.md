@@ -273,26 +273,25 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 🔗 https://github.com/palleprashanthp4-dev/web-developer-portfolio
 
 ---
-
 # <em>📈 GitHub Analytics</em>
 
 <div align="center">
 
-<p><b>GitHub Statistics</b></p>
+### <em>GitHub Statistics</em>
 
-<img src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Palle Prashanth GitHub Statistics" width="495" />
-
-<br><br>
-
-<p><b>Most Used Languages</b></p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=false" alt="Palle Prashanth Most Used Languages" width="495" />
+<img src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight&hide_border=true" width="500" alt="GitHub Statistics">
 
 <br><br>
 
-<p><b>Contribution Streak</b></p>
+### <em>Most Used Languages</em>
 
-<img src="https://streak-stats.demolab.com/?user=palleprashanthp4-dev&theme=tokyonight&hide_border=false" alt="Palle Prashanth GitHub Contribution Streak" width="495" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=true" width="500" alt="Most Used Programming Languages">
+
+<br><br>
+
+### <em>GitHub Contribution Streak</em>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=palleprashanthp4-dev&theme=tokyonight&hide_border=true" width="500" alt="GitHub Contribution Streak">
 
 </div>
 
@@ -302,12 +301,11 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 
 <div align="center">
 
-<p><b>GitHub Profile Trophies</b></p>
+### <em>GitHub Profile Trophies</em>
 
-<img src="https://github-profile-trophy.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="Palle Prashanth GitHub Profile Trophies" width="800" />
+<img src="https://github-profile-trophy.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" width="850" alt="GitHub Profile Trophies">
 
 </div>
-
 ---
 
 # <em>📊 Contribution Graph</em>
