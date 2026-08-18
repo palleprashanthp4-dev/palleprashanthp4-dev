@@ -43,11 +43,7 @@ I enjoy combining people-focused HR practices with data and technology to build 
 
 ### <em>“People + Data + Technology → Better Decisions”</em>
 
-<p><i>
-To build a career where HR knowledge, analytical thinking and technology work together
-
-to improve recruitment, employee operations, reporting and business decision-making.
-</i></p>
+<p><i>To build a career where HR knowledge, analytical thinking and technology work together to improve recruitment, employee operations, reporting and business decision-making.</i></p>
 
 </div>
 
@@ -288,12 +284,19 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/palleprashanthp4-dev">
+<img src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true" alt="Palle Prashanth GitHub Stats" width="49%"/>
+</a>
+
+<a href="https://github.com/palleprashanthp4-dev">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%"/>
+</a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palleprashanthp4-dev&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/palleprashanthp4-dev">
+<img src="https://streak-stats.demolab.com?user=palleprashanthp4-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="70%"/>
+</a>
 
 </div>
 
@@ -302,7 +305,11 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 # <em>🏆 GitHub Achievements</em>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+<a href="https://github.com/palleprashanthp4-dev">
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Achievements and Trophies" width="95%"/>
+</a>
+
 </div>
 
 ---
@@ -310,7 +317,9 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 # <em>📊 Contribution Graph</em>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palleprashanthp4-dev&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palleprashanthp4-dev&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="95%"/>
+
 </div>
 
 ---
@@ -332,7 +341,6 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 <a href="mailto:palleprashanthp4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/palleprashanthp4-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/palle-prashanth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:palleprashanthp4@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-00C853?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
