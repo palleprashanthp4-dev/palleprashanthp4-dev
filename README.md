@@ -202,7 +202,6 @@ I enjoy combining people-focused HR practices with data and technology to build 
 # <em>📂 Featured HR & Analytics Projects</em>
 
 ## 👨‍💼 HR Analytics Dashboard
-
 **Power BI • HR Analytics • Workforce Intelligence**
 
 HR dashboard focused on employee data, HR KPIs, gender diversity, workforce distribution and actionable workforce insights.
@@ -212,7 +211,6 @@ HR dashboard focused on employee data, HR KPIs, gender diversity, workforce dist
 ---
 
 ## 💰 Employee Payroll Management
-
 **Microsoft Excel • Payroll • HR Operations**
 
 Payroll project covering employee salary data, overtime, deductions, tax-related calculations, gross pay and net pay.
@@ -222,7 +220,6 @@ Payroll project covering employee salary data, overtime, deductions, tax-related
 ---
 
 ## 📄 Offer Letter Generator
-
 **HTML • CSS • JavaScript**
 
 HR utility for creating professional offer letters with real-time preview, customizable themes and print/PDF support.
@@ -232,7 +229,6 @@ HR utility for creating professional offer letters with real-time preview, custo
 ---
 
 ## 🧾 Pay Slip Generator
-
 **HTML • CSS • JavaScript**
 
 Payroll utility for generating professional employee salary slips.
@@ -242,7 +238,6 @@ Payroll utility for generating professional employee salary slips.
 ---
 
 ## 🏥 Hospital Analysis Project
-
 **Python • Data Analysis • Visualization**
 
 Data analysis project exploring hospital data, identifying patterns and presenting analytical insights.
@@ -252,7 +247,6 @@ Data analysis project exploring hospital data, identifying patterns and presenti
 ---
 
 ## 🌐 Web Scraping Data Analysis
-
 **Python • Web Scraping • Data Cleaning**
 
 Project focused on collecting structured data, cleaning datasets and preparing information for analysis.
@@ -284,18 +278,21 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<p><b>GitHub Statistics</b></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Palle Prashanth GitHub Statistics" width="495" />
 
 <br><br>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p><b>Most Used Languages</b></p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=false" alt="Palle Prashanth Most Used Languages" width="495" />
 
 <br><br>
 
-<!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palleprashanthp4-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p><b>Contribution Streak</b></p>
+
+<img src="https://streak-stats.demolab.com/?user=palleprashanthp4-dev&theme=tokyonight&hide_border=false" alt="Palle Prashanth GitHub Contribution Streak" width="495" />
 
 </div>
 
@@ -305,8 +302,9 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 
 <div align="center">
 
-<!-- GitHub Profile Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Profile Trophies" width="100%" />
+<p><b>GitHub Profile Trophies</b></p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="Palle Prashanth GitHub Profile Trophies" width="800" />
 
 </div>
 
@@ -316,7 +314,7 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palleprashanthp4-dev&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palleprashanthp4-dev&theme=tokyo-night&hide_border=false" alt="Palle Prashanth GitHub Contribution Graph" width="900" />
 
 </div>
 
