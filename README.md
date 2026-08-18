@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://www.100000voixpourlaformation.org/images/optimisation-des-processus-rh-integrer-la-technologie-moderne.jpeg" width="100%" alt="HR Assistant and HR Analytics"/>
+
 # 👋 <em>Hi, I'm Palle Prashanth</em>
 
 ### <em>HR Assistant | HR Analytics | Data Analytics</em>
@@ -10,17 +12,9 @@
 
 <br>
 
-<a href="mailto:palleprashanthp4@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/palleprashanthp4-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/palle-prashanth/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="mailto:palleprashanthp4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/palleprashanthp4-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/palle-prashanth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -46,11 +40,7 @@ I enjoy using technology and data to improve HR processes, create useful reports
 
 ### <em>"People + Data → Insights → Better Decisions"</em>
 
-<p><i>
-Seeking entry-level opportunities where I can apply my HR knowledge,
-analytical thinking and technical skills to support recruitment,
-HR operations, payroll and employee-focused business decisions.
-</i></p>
+<p><i>Seeking entry-level opportunities where I can apply my HR knowledge, analytical thinking and technical skills to support recruitment, HR operations, payroll and employee-focused business decisions.</i></p>
 
 </div>
 
@@ -67,7 +57,7 @@ HR operations, payroll and employee-focused business decisions.
 ✔ HR reporting and KPI tracking  
 ✔ Workforce and employee data analysis  
 ✔ HR dashboard development  
-✔ Data cleaning and visualization  
+✔ Data cleaning and visualization
 
 ---
 
@@ -144,7 +134,7 @@ HR operations, payroll and employee-focused business decisions.
 
 ---
 
-# 📂 Featured Projects
+# 📂 Featured HR & Analytics Projects
 
 ## 👨‍💼 HR Analytics Dashboard
 
@@ -152,16 +142,9 @@ HR operations, payroll and employee-focused business decisions.
 
 A workforce analytics dashboard focused on HR KPIs, employee data, gender diversity, workforce distribution and actionable HR insights.
 
-**Key Areas:**
-- Workforce Analysis
-- Gender Diversity
-- HR KPIs
-- Employee Distribution
-- Data Visualization
-- Interactive Dashboard
+**Key Areas:** Workforce Analysis · Gender Diversity · HR KPIs · Employee Distribution · Data Visualization · Interactive Dashboard
 
-🔗 **Repository:**  
-https://github.com/palleprashanthp4-dev/HR-Analytics-Dashboard
+🔗 **Repository:** https://github.com/palleprashanthp4-dev/HR-Analytics-Dashboard
 
 ---
 
@@ -171,18 +154,9 @@ https://github.com/palleprashanthp4-dev/HR-Analytics-Dashboard
 
 An employee payroll management project covering salary calculations, overtime, deductions, tax-related calculations, gross pay and net pay.
 
-**Key Areas:**
-- Employee Data
-- Salary Management
-- Overtime
-- Tax
-- Deductions
-- Gross Salary
-- Net Salary
-- Payroll Reporting
+**Key Areas:** Employee Data · Salary Management · Overtime · Tax · Deductions · Gross Salary · Net Salary · Payroll Reporting
 
-🔗 **Repository:**  
-https://github.com/palleprashanthp4-dev/Employee-Payroll-Management
+🔗 **Repository:** https://github.com/palleprashanthp4-dev/Employee-Payroll-Management
 
 ---
 
@@ -192,8 +166,7 @@ https://github.com/palleprashanthp4-dev/Employee-Payroll-Management
 
 A browser-based HR utility for creating professional offer letters with real-time preview, customizable themes and print/PDF support.
 
-🔗 **Repository:**  
-https://github.com/palleprashanthp4-dev/Offer-Letter-Generator
+🔗 **Repository:** https://github.com/palleprashanthp4-dev/Offer-Letter-Generator
 
 ---
 
@@ -203,8 +176,7 @@ https://github.com/palleprashanthp4-dev/Offer-Letter-Generator
 
 An HR payroll utility for generating professional employee salary slips and presenting payroll information in a structured format.
 
-🔗 **Repository:**  
-https://github.com/palleprashanthp4-dev/pay-slip-generator
+🔗 **Repository:** https://github.com/palleprashanthp4-dev/pay-slip-generator
 
 ---
 
@@ -214,8 +186,7 @@ https://github.com/palleprashanthp4-dev/pay-slip-generator
 
 A data analysis project focused on exploring hospital-related data, identifying patterns and presenting useful analytical insights.
 
-🔗 **Repository:**  
-https://github.com/palleprashanthp4-dev/Hospital--Analysis--Project
+🔗 **Repository:** https://github.com/palleprashanthp4-dev/Hospital--Analysis--Project
 
 ---
 
@@ -225,23 +196,17 @@ https://github.com/palleprashanthp4-dev/Hospital--Analysis--Project
 
 A project focused on collecting structured data, cleaning datasets and preparing information for analysis.
 
-🔗 **Repository:**  
-https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
+🔗 **Repository:** https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 
 ---
 
 # 📈 GitHub Analytics
 
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=palleprashanthp4-dev&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
@@ -249,9 +214,7 @@ https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 # 🏆 GitHub Achievements
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
 </div>
 
 ---
@@ -259,9 +222,7 @@ https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 # 📊 Contribution Graph
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=palleprashanthp4-dev&theme=tokyo-night"/>
-
 </div>
 
 ---
@@ -279,19 +240,9 @@ https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 # 📫 Connect With Me
 
 <div align="center">
-
-<a href="mailto:palleprashanthp4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/palleprashanthp4-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/palle-prashanth/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<a href="mailto:palleprashanthp4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/palleprashanthp4-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/palle-prashanth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
