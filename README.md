@@ -284,19 +284,18 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 
 <div align="center">
 
-<a href="https://github.com/palleprashanthp4-dev">
-<img src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true" alt="Palle Prashanth GitHub Stats" width="49%"/>
-</a>
-
-<a href="https://github.com/palleprashanthp4-dev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%"/>
-</a>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
 <br><br>
 
-<a href="https://github.com/palleprashanthp4-dev">
-<img src="https://streak-stats.demolab.com?user=palleprashanthp4-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="70%"/>
-</a>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br><br>
+
+<!-- Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=palleprashanthp4-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -306,9 +305,8 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 
 <div align="center">
 
-<a href="https://github.com/palleprashanthp4-dev">
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Achievements and Trophies" width="95%"/>
-</a>
+<!-- GitHub Profile Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Profile Trophies" width="100%" />
 
 </div>
 
@@ -318,7 +316,7 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palleprashanthp4-dev&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palleprashanthp4-dev&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
 
 </div>
 
