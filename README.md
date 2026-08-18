@@ -272,41 +272,8 @@ Project focused on collecting structured data, cleaning datasets and preparing i
 
 🔗 https://github.com/palleprashanthp4-dev/web-developer-portfolio
 
----
-# <em>📈 GitHub Analytics</em>
 
-<div align="center">
 
-### <em>GitHub Statistics</em>
-
-<img src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight&hide_border=true" width="500" alt="GitHub Statistics">
-
-<br><br>
-
-### <em>Most Used Languages</em>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=true" width="500" alt="Most Used Programming Languages">
-
-<br><br>
-
-### <em>GitHub Contribution Streak</em>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palleprashanthp4-dev&theme=tokyonight&hide_border=true" width="500" alt="GitHub Contribution Streak">
-
-</div>
-
----
-
-# <em>🏆 GitHub Achievements</em>
-
-<div align="center">
-
-### <em>GitHub Profile Trophies</em>
-
-<img src="https://github-profile-trophy.vercel.app/?username=palleprashanthp4-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" width="850" alt="GitHub Profile Trophies">
-
-</div>
----
 
 # <em>📊 Contribution Graph</em>
 
