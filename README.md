@@ -1,16 +1,12 @@
+<div align="center">
 
+# 👋 <em>Hi, I'm Palle Prashanth</em>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFtQm1V5xx7_w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1710870009359?e=2147483647&v=beta&t=cIZvlOB6_rB053_id6XabKgAprryKmT20PYaSfkCl_A" width="100%"/>
+### <em>HR Assistant | HR Analytics | Data Analytics</em>
 
-<h1>
-<em><strong>📊 Data Analyst Portfolio</strong></em>
-</h1>
+<p><i>Transforming Employee Data Into Actionable HR Insights & Better Decisions</i></p>
 
-<p>
-<i>Transforming Raw Data Into Actionable Insights & Intelligent Decisions</i>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Prashanth+Palle;Aspiring+Data+Analyst;Artificial+Intelligence+%26+Data+Science+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Business+Insights;Open+to+Internship+Opportunities"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hello+World!+I'm+Palle+Prashanth;Aspiring+HR+Assistant;HR+Analytics+%7C+HR+Operations;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Recruitment+%7C+Payroll+%7C+Employee+Management;Turning+HR+Data+Into+Business+Insights;Open+to+HR+Internship+Opportunities" alt="Typing SVG"/>
 
 <br>
 
@@ -22,7 +18,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/palle-prashanth/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -30,185 +26,206 @@
 
 ---
 
-# 🌐 <em>Professional Portfolio Website</em>
-
-<div align="center">
-
-### <i>Explore My Complete Data Analytics Portfolio</i>
-
-<a href="https://palle-prashanth-portfolio.space-z.ai/">
-<img src="https://github.com/palleprashanthp4-dev/palleprashanthp4-dev/blob/main/Screenshot%202026-06-04%20133102.png" width="100%" alt="Portfolio Preview"/>
-</a>
-
-<br><br>
-
-<a href="https://palle-prashanth-portfolio.space-z.ai/">
-<img src="https://img.shields.io/badge/🚀_Live_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-</div>
-
-<p align="center">
-<i>
-A modern portfolio showcasing my Data Analytics projects, dashboards,
-technical skills, GitHub activity, and professional journey.
-</i>
-</p>
-
----
-
 # 🌟 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+### 👨‍💼 HR & Analytics Enthusiast
 
-### <em>👋 Hi, I'm Prashanth Palle</em>
+I am **Palle Prashanth**, an aspiring **HR Assistant and HR Analytics professional** with a strong interest in HR Operations, Recruitment, Payroll, Employee Management and Data Analytics.
 
-🎓 **2nd Year B.Tech Student**
+I enjoy using technology and data to improve HR processes, create useful reports, understand workforce trends and support better business decisions.
 
-🏫 **Artificial Intelligence & Data Science**
-
-📍 **RSR Engineering College, Kavali**
-
-I am passionate about Data Analytics, Business Intelligence, Data Visualization, and extracting meaningful insights from complex datasets.
-
-My goal is to help organizations make data-driven decisions through analytics, dashboards, and storytelling.
+🎓 **B.Tech — Artificial Intelligence & Data Science**  
+🏫 **RSR Engineering College, Kavali**  
+📅 **2025–2029**
 
 ---
 
-## 💡 Career Objective
+# 💡 Career Objective
 
 <div align="center">
 
-### <em>"Data → Insights → Decisions"</em>
+### <em>"People + Data → Insights → Better Decisions"</em>
 
-<i>
-Seeking opportunities where I can apply analytical thinking,
-problem-solving abilities, and technical skills to create measurable impact.
-</i>
+<p><i>
+Seeking entry-level opportunities where I can apply my HR knowledge,
+analytical thinking and technical skills to support recruitment,
+HR operations, payroll and employee-focused business decisions.
+</i></p>
 
 </div>
 
 ---
 
-# 💼 Why Recruiters Should Notice Me
+# 💼 What I Can Contribute
 
-✔ Strong foundation in Artificial Intelligence & Data Science
-
-✔ Hands-on experience with Python, SQL, Excel & Power BI
-
-✔ Built 5+ Real-World Data Analytics Projects
-
-✔ Experience in Data Cleaning & Exploratory Data Analysis
-
-✔ Strong Business Intelligence & Dashboard Development Skills
-
-✔ Continuous Learner & Problem Solver
-
-✔ Open to Internship Opportunities
+✔ Recruitment and candidate screening support  
+✔ Candidate shortlisting and interview coordination  
+✔ Employee onboarding support  
+✔ Employee records and HR documentation  
+✔ Attendance and leave tracking  
+✔ Payroll support and payroll analysis  
+✔ HR reporting and KPI tracking  
+✔ Workforce and employee data analysis  
+✔ HR dashboard development  
+✔ Data cleaning and visualization  
 
 ---
 
 # 🚀 Technical Skills
 
-## 📊 Data Analytics
+## 👨‍💼 HR Assistant & HR Operations
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![HR Operations](https://img.shields.io/badge/HR_Operations-5B2C83?style=for-the-badge)
+![Recruitment](https://img.shields.io/badge/Recruitment-6A1B9A?style=for-the-badge)
+![Talent Acquisition](https://img.shields.io/badge/Talent_Acquisition-7B1FA2?style=for-the-badge)
+![Payroll](https://img.shields.io/badge/Payroll-4527A0?style=for-the-badge)
+![HRMS](https://img.shields.io/badge/HRMS-283593?style=for-the-badge)
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+- Recruitment Support
+- Resume Screening
+- Candidate Shortlisting
+- Job Posting Support
+- Interview Coordination
+- Candidate Communication
+- Employee Onboarding
+- Employee Records Management
+- Attendance Tracking
+- Leave Management
+- Payroll Support
+- HR Documentation
+- HR Reporting
+- Employee Engagement Support
+- HRMS Basics
+- HR Compliance Basics
 
 ---
 
-## 🐍 Programming
+## 📊 HR Analytics & Data Analytics
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- Data Cleaning
+- Data Analysis
+- Exploratory Data Analysis
+- Data Visualization
+- Statistical Analysis
+- KPI Analysis
+- Dashboard Development
+- HR KPI Reporting
+- Workforce Analytics
+- Employee Analytics
+- Recruitment Analytics
+- Payroll Analytics
+- Attendance Analytics
+- Performance Analytics
+- Attrition Analytics
+- Diversity Analytics
 
 ---
 
-## 📚 Libraries
+## 🐍 Python Libraries
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge)
-
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+---
+
+## ⚙️ Development & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## ⚙️ Tools
+# 📂 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+## 👨‍💼 HR Analytics Dashboard
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+**Power BI | HR Analytics | Data Visualization**
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
+A workforce analytics dashboard focused on HR KPIs, employee data, gender diversity, workforce distribution and actionable HR insights.
 
----
+**Key Areas:**
+- Workforce Analysis
+- Gender Diversity
+- HR KPIs
+- Employee Distribution
+- Data Visualization
+- Interactive Dashboard
 
-# 📂 Featured Data Analytics Projects
-
-## 🦠 COVID-19 Data Analysis
-
-* Data Cleaning
-* Exploratory Data Analysis
-* Trend Identification
-* Statistical Insights
-* Data Visualization
-
-🔗 Repository:
-https://github.com/palleprashanthp4-dev/Covid-19-Analysis-Project
+🔗 **Repository:**  
+https://github.com/palleprashanthp4-dev/HR-Analytics-Dashboard
 
 ---
 
-## 👨‍💼 Employee Performance Analysis
+## 💰 Employee Payroll Management
 
-* Employee Productivity Analysis
-* Attendance Insights
-* Department Performance
-* KPI Tracking
+**Microsoft Excel | Payroll | HR Operations**
 
-🔗 Repository:
-https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project
+An employee payroll management project covering salary calculations, overtime, deductions, tax-related calculations, gross pay and net pay.
 
----
+**Key Areas:**
+- Employee Data
+- Salary Management
+- Overtime
+- Tax
+- Deductions
+- Gross Salary
+- Net Salary
+- Payroll Reporting
 
-## 🎓 Student Performance Dashboard
-
-* KPI Dashboard
-* Dynamic Filters
-* Performance Tracking
-* Interactive Reports
-
-🔗 Repository:
-https://github.com/palleprashanthp4-dev/student-performance-analysis
+🔗 **Repository:**  
+https://github.com/palleprashanthp4-dev/Employee-Payroll-Management
 
 ---
 
-## 🏥 Hospital Analytics Dashboard
+## 📄 Offer Letter Generator
 
-* Patient Analytics
-* Cost Analysis
-* Readmission Insights
-* Department Metrics
+**HTML | CSS | JavaScript**
 
-🔗 Repository:
+A browser-based HR utility for creating professional offer letters with real-time preview, customizable themes and print/PDF support.
+
+🔗 **Repository:**  
+https://github.com/palleprashanthp4-dev/Offer-Letter-Generator
+
+---
+
+## 🧾 Pay Slip Generator
+
+**HTML | CSS | JavaScript**
+
+An HR payroll utility for generating professional employee salary slips and presenting payroll information in a structured format.
+
+🔗 **Repository:**  
+https://github.com/palleprashanthp4-dev/pay-slip-generator
+
+---
+
+## 🏥 Hospital Analysis Project
+
+**Python | Data Analysis | Visualization**
+
+A data analysis project focused on exploring hospital-related data, identifying patterns and presenting useful analytical insights.
+
+🔗 **Repository:**  
 https://github.com/palleprashanthp4-dev/Hospital--Analysis--Project
 
 ---
 
 ## 🌐 Web Scraping Data Analysis
 
-* Automated Data Collection
-* Data Cleaning
-* Data Processing
-* Structured Dataset Creation
+**Python | Web Scraping | Data Cleaning**
 
-🔗 Repository:
+A project focused on collecting structured data, cleaning datasets and preparing information for analysis.
+
+🔗 **Repository:**  
 https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 
 ---
@@ -217,11 +234,13 @@ https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=palleprashanthp4-dev&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&theme=tokyonight"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=palleprashanthp4-dev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -247,6 +266,16 @@ https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 
 ---
 
+# 🎯 Career Interests
+
+<div align="center">
+
+`HR Assistant` · `HR Operations` · `Recruitment` · `Talent Acquisition` · `Payroll` · `HR Analytics` · `People Analytics` · `Data Analytics`
+
+</div>
+
+---
+
 # 📫 Connect With Me
 
 <div align="center">
@@ -259,7 +288,7 @@ https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/palle-prashanth/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -269,13 +298,11 @@ https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
 
 <div align="center">
 
-### <em>"Without data, you're just another person with an opinion."</em>
-
-<i>— W. Edwards Deming</i>
+### <em>"People are the heart of an organization. Data helps us understand how to support them better."</em>
 
 <br><br>
 
-⭐ <b>If you like my projects, don't forget to star my repositories!</b>
+⭐ <b>If you find my projects useful, consider starring the repositories!</b>
 
 <br><br>
 
