@@ -1,1 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc"><title id="title">Palle Prashanth — Full-Stack Developer, AI Builder &amp; Vibe Coder</title><desc id="desc">Premium developer profile banner featuring full-stack development, AI tools and vibe coding.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111F"/><stop offset="0.5" stop-color="#0D1B2A"/><stop offset="1" stop-color="#12263A"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67E8F9"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#F8FAFC"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#CBD5E1" stroke-opacity=".045"/></pattern><filter id="blur"><feGaussianBlur stdDeviation="28"/></filter></defs><rect width="1584" height="396" rx="30" fill="url(#bg)"/><rect width="1584" height="396" rx="30" fill="url(#grid)"/><circle cx="1390" cy="0" r="250" fill="#38BDF8" opacity=".12" filter="url(#blur)"/><circle cx="1510" cy="390" r="210" fill="#8B5CF6" opacity=".08" filter="url(#blur)"/><path d="M0 340C300 255 430 405 720 315S1180 215 1584 290" fill="none" stroke="#67E8F9" stroke-opacity=".12" stroke-width="2"/><g transform="translate(92 62)"><rect width="96" height="4" rx="2" fill="url(#line)"/><text x="0" y="38" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">DIGITAL BUILDER</text><text x="0" y="105" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="800">PALLE PRASHANTH</text><text x="2" y="143" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Full-Stack Developer  ·  AI Tools  ·  Vibe Coder</text><g transform="translate(0 178)"><rect width="640" height="58" rx="29" fill="#F8FAFC" fill-opacity=".055" stroke="#E2E8F0" stroke-opacity=".13"/><circle cx="29" cy="29" r="7" fill="#67E8F9"/><text x="49" y="35" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Building products with code, creativity &amp; AI</text></g></g><g transform="translate(1000 58)"><rect width="470" height="276" rx="28" fill="#06101C" fill-opacity=".78" stroke="#CBD5E1" stroke-opacity=".13"/><rect x="20" y="20" width="430" height="236" rx="20" fill="none" stroke="#67E8F9" stroke-opacity=".08"/><g transform="translate(42 42)"><circle cx="9" cy="9" r="9" fill="#67E8F9"/><text x="29" y="15" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">MY BUILD LOOP</text><g transform="translate(0 50)"><rect width="108" height="42" rx="12" fill="#38BDF8" fill-opacity=".10" stroke="#38BDF8" stroke-opacity=".25"/><text x="54" y="27" text-anchor="middle" fill="#BAE6FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">IDEA</text><path d="M116 21H136" stroke="#64748B" stroke-width="2"/><rect x="144" width="108" height="42" rx="12" fill="#8B5CF6" fill-opacity=".10" stroke="#8B5CF6" stroke-opacity=".25"/><text x="198" y="27" text-anchor="middle" fill="#DDD6FE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">AI + CODE</text><path d="M260 21H280" stroke="#64748B" stroke-width="2"/><rect x="288" width="108" height="42" rx="12" fill="#F8FAFC" fill-opacity=".07" stroke="#CBD5E1" stroke-opacity=".20"/><text x="342" y="27" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">SHIP</text></g><g transform="translate(0 125)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13"><text x="0" y="16" fill="#64748B">stack</text><text x="92" y="16" fill="#E2E8F0">Full-Stack Web</text><text x="0" y="43" fill="#64748B">tools</text><text x="92" y="43" fill="#E2E8F0">AI • Git • VS Code</text><text x="0" y="70" fill="#64748B">mindset</text><text x="92" y="70" fill="#E2E8F0">Build fast. Learn. Improve.</text></g></g></g><rect x="0" y="392" width="1584" height="4" fill="url(#line)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
+<title id="title">Palle Prashanth — Full-Stack Developer | AI Tools | Vibe Coder</title>
+<desc id="desc">A distinctive modern developer banner focused on building digital products with full-stack development, AI tools and vibe coding.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#09090B"/><stop offset="0.55" stop-color="#111827"/><stop offset="1" stop-color="#171717"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#818CF8"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+  <radialGradient id="glow1"><stop offset="0" stop-color="#22D3EE" stop-opacity=".22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2"><stop offset="0" stop-color="#A78BFA" stop-opacity=".20"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".075"/></pattern>
+</defs>
+<rect width="1584" height="396" rx="28" fill="url(#bg)"/>
+<rect width="1584" height="396" rx="28" fill="url(#dots)"/>
+<circle cx="1420" cy="35" r="310" fill="url(#glow1)"/>
+<circle cx="1190" cy="360" r="280" fill="url(#glow2)"/>
+
+<g transform="translate(86 58)">
+  <rect x="0" y="0" width="112" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="0" y="40" fill="#A1A1AA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4">BUILD • CREATE • SHIP</text>
+  <text x="0" y="105" fill="#FAFAFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="850" letter-spacing="-1">PALLE PRASHANTH</text>
+  <text x="2" y="143" fill="#E4E4E7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="500">Full-Stack Developer  ·  AI Tools  ·  Vibe Coder</text>
+  <text x="2" y="180" fill="#A1A1AA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Turning ideas into useful, modern digital products.</text>
+  <g transform="translate(0 211)">
+    <rect width="500" height="48" rx="24" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <circle cx="25" cy="24" r="6" fill="#22D3EE"/>
+    <text x="43" y="30" fill="#D4D4D8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">code + creativity + AI</text>
+    <text x="222" y="30" fill="#71717A" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">→</text>
+    <text x="244" y="30" fill="#E4E4E7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">real products</text>
+  </g>
+</g>
+
+<g transform="translate(940 54)">
+  <rect width="540" height="288" rx="30" fill="#09090B" fill-opacity=".72" stroke="#FFFFFF" stroke-opacity=".13"/>
+  <path d="M28 64H512M28 122H512M28 180H512M28 238H512" stroke="#FFFFFF" stroke-opacity=".055"/>
+  <path d="M122 24V264M242 24V264M362 24V264M482 24V264" stroke="#FFFFFF" stroke-opacity=".04"/>
+  <g transform="translate(34 28)">
+    <circle cx="9" cy="9" r="9" fill="#22D3EE"/>
+    <text x="28" y="15" fill="#F4F4F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">MY WORKFLOW</text>
+    <g transform="translate(0 50)">
+      <rect width="128" height="50" rx="14" fill="#22D3EE" fill-opacity=".09" stroke="#22D3EE" stroke-opacity=".30"/>
+      <text x="64" y="31" text-anchor="middle" fill="#A5F3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">IDEA</text>
+      <path d="M138 25H158" stroke="#52525B" stroke-width="2"/>
+      <rect x="168" width="128" height="50" rx="14" fill="#818CF8" fill-opacity=".10" stroke="#818CF8" stroke-opacity=".30"/>
+      <text x="232" y="31" text-anchor="middle" fill="#C7D2FE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">AI + CODE</text>
+      <path d="M306 25H326" stroke="#52525B" stroke-width="2"/>
+      <rect x="336" width="128" height="50" rx="14" fill="#F472B6" fill-opacity=".08" stroke="#F472B6" stroke-opacity=".28"/>
+      <text x="400" y="31" text-anchor="middle" fill="#FBCFE8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">SHIP</text>
+    </g>
+    <g transform="translate(0 134)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">
+      <text x="0" y="18" fill="#71717A">focus</text><text x="92" y="18" fill="#E4E4E7">Full-Stack Web</text>
+      <text x="0" y="47" fill="#71717A">boost</text><text x="92" y="47" fill="#E4E4E7">AI Tools</text>
+      <text x="0" y="76" fill="#71717A">style</text><text x="92" y="76" fill="#E4E4E7">Vibe Coding</text>
+    </g>
+  </g>
+</g>
+<rect x="0" y="392" width="1584" height="4" fill="url(#accent)"/>
+</svg>
