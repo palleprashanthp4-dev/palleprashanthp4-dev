@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
+  <title id="title">Palle Prashanth — Full-Stack Developer, AI Tools & Vibe Coder</title>
+  <desc id="desc">A modern developer banner featuring full-stack development, AI tools and creative vibe coding.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080B14"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1584" height="396" rx="28" fill="url(#bg)"/>
+  <rect width="1584" height="396" rx="28" fill="url(#grid)"/>
+  <circle cx="1360" cy="65" r="150" fill="#7C3AED" opacity="0.10" filter="url(#glow)"/>
+  <circle cx="1510" cy="315" r="190" fill="#06B6D4" opacity="0.08" filter="url(#glow)"/>
+
+  <rect x="72" y="54" width="7" height="288" rx="4" fill="url(#accent)"/>
+
+  <text x="112" y="105" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="4">BUILD • CREATE • SHIP</text>
+  <text x="108" y="166" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800">PALLE PRASHANTH</text>
+  <text x="112" y="207" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Full-Stack Developer  ·  AI Tools  ·  Vibe Coder</text>
+
+  <g transform="translate(112 245)">
+    <rect width="620" height="74" rx="16" fill="#0B1220" stroke="#334155" stroke-opacity="0.9"/>
+    <text x="22" y="29" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">~/build/next-idea</text>
+    <text x="22" y="55" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16"><tspan fill="#22C55E">$</tspan> code → AI → test → ship → repeat</text>
+  </g>
+
+  <g transform="translate(850 66)">
+    <rect width="610" height="265" rx="24" fill="#0A101C" fill-opacity="0.9" stroke="#334155" stroke-width="1.5"/>
+    <circle cx="30" cy="30" r="6" fill="#EF4444"/><circle cx="52" cy="30" r="6" fill="#F59E0B"/><circle cx="74" cy="30" r="6" fill="#22C55E"/>
+    <text x="30" y="78" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">developer.profile.json</text>
+    <text x="30" y="116" fill="#A78BFA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">{</text>
+    <text x="55" y="146" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">"stack"</text><text x="133" y="146" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">: "Full-Stack",</text>
+    <text x="55" y="176" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">"superpower"</text><text x="178" y="176" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">: "AI-assisted building",</text>
+    <text x="55" y="206" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">"mindset"</text><text x="145" y="206" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">: "Vibe coding"</text>
+    <text x="30" y="236" fill="#A78BFA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">}</text>
+  </g>
+
+  <rect x="0" y="392" width="1584" height="4" fill="url(#accent)"/>
+</svg>
