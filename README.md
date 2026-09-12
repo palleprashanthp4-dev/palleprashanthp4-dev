@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/palleprashanthp4-dev/palleprashanthp4-dev/main/assets/mern-stack-linkedin-banner.svg" alt="Palle Prashanth — MERN Stack Developer" />
+<img width="100%" src="https://raw.githubusercontent.com/palleprashanthp4-dev/palleprashanthp4-dev/main/assets/full-stack-ai-vibe-coding-banner.svg" alt="Palle Prashanth — Full-Stack Developer, AI Tools & Vibe Coder" />
 
 <br>
 
 ### ✦ <em>𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝔀𝓸𝓻𝓵𝓭</em> ✦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=23&duration=2800&pause=800&color=61DAFB&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Full-Stack+Web+Development;REST+APIs+%7C+CRUD+%7C+Authentication;Responsive+UI%2FUX+%7C+JavaScript;Building+Real-World+Web+Projects" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=23&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+%7C+JavaScript+%7C+Web+Development;AI-Assisted+Development;Vibe+Coder+%7C+Rapid+Prototyping;Building+Real-World+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing animation" />
 
 <br><br>
 
@@ -18,36 +18,39 @@
 
 ---
 
-# 🌿 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+# 🌐 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-<i>I am Palle Prashanth, a B.Tech student in Artificial Intelligence & Data Science with a strong focus on MERN Stack and Full-Stack Web Development.</i>
+<i>I am Palle Prashanth, a B.Tech student in Artificial Intelligence & Data Science and an aspiring Full-Stack Developer.</i>
 
-<i>I enjoy turning ideas into practical products — designing responsive interfaces, building React applications, creating REST APIs and connecting applications with databases.</i>
+<i>I build modern web applications from frontend to backend, experiment with AI tools to accelerate development, and use vibe-coding workflows to turn ideas into working products faster.</i>
 
 🎓 <i><b>B.Tech — Artificial Intelligence & Data Science</b></i>  
 🏫 <i>RSR Engineering College, Kavali</i>  
 📅 <i>2025–2029</i>  
 📍 <i>India</i>  
-💻 <i><b>Primary Focus:</b> MERN Stack Development</i>
+💻 <i><b>Focus:</b> Full-Stack Development • MERN • AI-Assisted Development</i>
 
-> <em>✧ “Learn the technology. Build the product. Improve every iteration.” ✧</em>
+> <em>✧ “Think in ideas. Build with code. Accelerate with AI. Ship what works.” ✧</em>
 
 ---
 
-# ✨ 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
+# ⚡ 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,github,vscode,postman" alt="MERN and web technologies" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,typescript,html,css,git,github,vscode,postman,figma" alt="Full-stack technologies" />
 </div>
 
 ### ⚛️ <em>𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭</em>
-<i>HTML5 • CSS3 • JavaScript ES6+ • React.js • Responsive UI/UX • API Integration</i>
+<i>HTML5 • CSS3 • JavaScript • React.js • TypeScript • Responsive UI/UX • API Integration</i>
 
 ### 🟢 <em>𝓑𝓪𝓬𝓴𝓮𝓷𝓭</em>
 <i>Node.js • Express.js • REST APIs • Routing • Middleware • CRUD • Authentication</i>
 
 ### 🍃 <em>𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮</em>
 <i>MongoDB • MongoDB Atlas • Mongoose • Data Modeling • CRUD Operations</i>
+
+### 🤖 <em>𝓐𝓘 & 𝓥𝓲𝓫𝓮 𝓒𝓸𝓭𝓲𝓷𝓰</em>
+<i>AI-assisted coding • Prompt-driven development • Rapid prototyping • Debugging with AI • Idea-to-product workflows</i>
 
 ### 🛠️ <em>𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 𝓣𝓸𝓸𝓵𝓼</em>
 <i>Git • GitHub • VS Code • Postman • Vercel • Figma</i>
@@ -110,9 +113,27 @@
 
 ---
 
-# 🔐 𝓜𝓔𝓡𝓝 𝓢𝓴𝓲𝓵𝓵𝓼 𝓘 𝓐𝓶 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰
+# 🤖 𝓐𝓘 + 𝓥𝓲𝓫𝓮 𝓒𝓸𝓭𝓲𝓷𝓰
+
+<div align="center">
+
+<i>Using AI tools as a development partner — not a replacement for understanding code.</i>
+
+<br><br>
+
+`IDEA` → `PROMPT` → `PROTOTYPE` → `CODE` → `DEBUG` → `TEST` → `SHIP`
+
+<br><br>
+
+<em>⚡ Rapid prototyping • 🧠 AI-assisted problem solving • 🎨 UI generation • 🔧 Debugging • 🚀 Product iteration</em>
+
+</div>
+
+---
+
+# 🔐 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓢𝓴𝓲𝓵𝓵𝓼 𝓘 𝓐𝓶 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰
 - ⚛️ <i>React component development</i>
-- 🧩 <i>React state and props</i>
+- 🧩 <i>State, props and reusable UI</i>
 - 🔄 <i>REST API integration</i>
 - 🟢 <i>Node.js backend development</i>
 - 🚀 <i>Express.js API development</i>
@@ -122,22 +143,25 @@
 - 📝 <i>CRUD applications</i>
 - 📡 <i>API testing with Postman</i>
 - ☁️ <i>Full-stack deployment</i>
+- 🤖 <i>AI-assisted development workflows</i>
+- ⚡ <i>Vibe coding and rapid product prototyping</i>
 - 🔗 <i>Git and GitHub workflow</i>
 
 ---
 
-# 🗺️ 𝓜𝔂 𝓜𝓔𝓡𝓝 𝓡𝓸𝓪𝓭𝓶𝓪𝓹
+# 🗺️ 𝓜𝔂 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓡𝓸𝓪𝓭𝓶𝓪𝓹
 <div align="center">
 
-### <i>HTML + CSS → JavaScript → React → Node.js → Express.js → MongoDB → REST APIs → Authentication → Full-Stack Projects → Deployment</i>
+### <i>HTML + CSS → JavaScript → React → Node.js → Express.js → MongoDB → REST APIs → Authentication → AI-Assisted Development → Full-Stack Projects → Deployment</i>
 
 <br>
 <img src="https://img.shields.io/badge/HTML%20%26%20CSS-✅%20Done-E34F26?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JavaScript-✅%20Done-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-🔥%20Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React-🔥%20Building-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-⏳%20Building-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-⏳%20Building-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-⏳%20Building-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Tools-⚡%20Using-7C3AED?style=for-the-badge" />
 
 </div>
 
@@ -155,6 +179,8 @@
                      ↓
                Authentication 🔐
                      ↓
+              AI-Assisted Build 🤖
+                     ↓
                 Deployment ☁️
 ```
 <i>Building toward complete applications such as e-commerce platforms, learning systems, HR systems, wedding platforms, business portals and job trackers.</i>
@@ -163,20 +189,25 @@
 
 # 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=47A248&text_color=ffffff" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=ffffff" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=ffffff" alt="Top Languages" />
 <br><br>
-<img src="https://streak-stats.demolab.com?user=palleprashanthp4-dev&hide_border=true&background=0D1117&ring=61DAFB&fire=47A248&currStreakLabel=61DAFB" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=palleprashanthp4-dev&hide_border=true&background=0D1117&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
 
 # 🎯 𝓒𝓪𝓻𝓮𝓮𝓻 𝓕𝓸𝓬𝓾𝓼
 <div align="center">
-## <em>𝓜𝓔𝓡𝓝 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</em>
-<i>Full-Stack Developer • React Developer • Node.js Developer • JavaScript Developer</i>
+
+## <em>𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</em>
+
+<i>Full-Stack Developer • MERN Developer • JavaScript Developer • AI-Assisted Developer • Vibe Coder</i>
+
 <br><br>
-<i>Building responsive, scalable and real-world web applications with the MERN stack.</i>
+
+<i>Building responsive, scalable and real-world web applications while using modern AI tools to prototype, solve problems and iterate faster.</i>
+
 </div>
 
 ---
@@ -187,7 +218,7 @@
 <a href="https://github.com/palleprashanthp4-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/palle-prashanth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br><br>
-<em>𝓛𝓮𝓪𝓻𝓷 • 𝓑𝓾𝓲𝓵𝓭 • 𝓓𝓮𝓹𝓵𝓸𝔂 • 𝓘𝓶𝓹𝓻𝓸𝓿𝓮</em>
+<em>𝓛𝓮𝓪𝓻𝓷 • 𝓑𝓾𝓲𝓵𝓭 • 𝓤𝓼𝓮 𝓐𝓘 • 𝓢𝓱𝓲𝓹 • 𝓘𝓶𝓹𝓻𝓸𝓿𝓮</em>
 <br><br>
 ⭐ <i>Thanks for visiting my profile!</i>
 </div>
