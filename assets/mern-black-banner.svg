@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+<rect width="1400" height="420" rx="28" fill="#050505"/>
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#47A248"/><stop offset=".33" stop-color="#ffffff"/><stop offset=".66" stop-color="#61DAFB"/><stop offset="1" stop-color="#68A063"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<circle cx="180" cy="210" r="115" fill="#111" stroke="#47A248" stroke-width="4"/>
+<circle cx="520" cy="210" r="115" fill="#111" stroke="#fff" stroke-width="4"/>
+<circle cx="880" cy="210" r="115" fill="#111" stroke="#61DAFB" stroke-width="4"/>
+<circle cx="1220" cy="210" r="115" fill="#111" stroke="#68A063" stroke-width="4"/>
+<text x="700" y="78" text-anchor="middle" fill="url(#g)" font-family="Georgia, serif" font-size="62" font-style="italic" font-weight="bold">M E R N</text>
+<text x="180" y="230" text-anchor="middle" fill="#47A248" font-family="Georgia, serif" font-size="58" font-style="italic" font-weight="bold">M</text>
+<text x="520" y="230" text-anchor="middle" fill="#fff" font-family="Georgia, serif" font-size="58" font-style="italic" font-weight="bold">E</text>
+<text x="880" y="230" text-anchor="middle" fill="#61DAFB" font-family="Georgia, serif" font-size="58" font-style="italic" font-weight="bold">R</text>
+<text x="1220" y="230" text-anchor="middle" fill="#68A063" font-family="Georgia, serif" font-size="58" font-style="italic" font-weight="bold">N</text>
+<text x="700" y="350" text-anchor="middle" fill="#f5f5f5" font-family="Georgia, serif" font-size="28" font-style="italic">MongoDB  •  Express.js  •  React  •  Node.js</text>
+</svg>
