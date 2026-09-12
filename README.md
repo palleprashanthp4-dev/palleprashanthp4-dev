@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&q=85" width="100%" alt="MERN Stack Web Development"/>
+# <em>👋 Hi, I'm Palle Prashanth</em>
 
-<br>
+### <em>💻 MERN Stack Developer • Full-Stack Web Developer • JavaScript</em>
 
-# 👋 Hi, I'm Palle Prashanth
+<p><i>Building modern, responsive and practical web applications with MongoDB, Express.js, React and Node.js.</i></p>
 
-### MERN Stack Developer • Full-Stack Web Development • JavaScript • Data-Driven Applications
-
-<p><i>Building responsive, practical and scalable web applications with modern JavaScript technologies.</i></p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Frontend+%7C+REST+APIs+%7C+Full+Stack;JavaScript+%7C+HTML+%7C+CSS;Building+Real-World+Web+Projects;Learning+System+Design+%26+Backend+Development;Open+to+Internships+%26+Entry-Level+Opportunities" alt="Typing SVG"/>
+<img src="https://res.cloudinary.com/jerrick/image/upload/v1704095064/65926d58ceb78e001dd4ff86.jpg" width="850" alt="MERN Stack MongoDB Express React Node.js"/>
 
 <br><br>
 
@@ -18,28 +14,30 @@
 <a href="https://github.com/palleprashanthp4-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/palle-prashanth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=23&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Full-Stack+Web+Application+Development;REST+APIs+%7C+CRUD+%7C+Authentication;Responsive+UI%2FUX+%7C+JavaScript;Building+Real-World+Web+Projects" alt="Typing SVG"/>
+
 </div>
 
 ---
 
-# 🚀 About Me
+# <em>🌟 About Me</em>
 
-I am **Palle Prashanth**, a B.Tech student in **Artificial Intelligence & Data Science** with a strong focus on **MERN Stack Development and full-stack web applications**.
+I am **Palle Prashanth**, a B.Tech student in **Artificial Intelligence & Data Science** with a primary focus on **MERN Stack and Full-Stack Web Development**.
 
-I enjoy turning ideas into practical web applications, designing responsive interfaces, creating REST APIs and connecting frontend applications with backend services and databases.
+I enjoy turning ideas into practical products — designing responsive interfaces, building React applications, creating REST APIs and connecting applications with databases.
 
 🎓 **B.Tech — Artificial Intelligence & Data Science**  
 🏫 **RSR Engineering College, Kavali**  
 📅 **2025–2029**  
 📍 **India**
 
-My current development focus is:
-
-**React → Node.js → Express.js → MongoDB → REST APIs → Authentication → Deployment**
+> <em>“Learn the technology. Build the product. Improve every iteration.”</em>
 
 ---
 
-# 💻 MERN Stack
+# <em>💻 MERN Stack</em>
 
 <div align="center">
 
@@ -50,49 +48,37 @@ My current development focus is:
 
 </div>
 
-### Frontend
+### <em>Frontend</em>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- HTML5, CSS3 and JavaScript ES6+
+- React.js and component-based development
+- Responsive UI/UX
+- Forms and client-side validation
+- API integration
+- Modern animations and interactions
 
-- Responsive UI development
-- React components
-- Props and state concepts
-- Forms and validation
-- DOM manipulation
-- JavaScript ES6+
-- Responsive layouts
-- UI/UX implementation
+### <em>Backend</em>
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-- Node.js fundamentals
+- Node.js
 - Express.js
 - REST API development
-- Routing
-- Middleware concepts
-- CRUD APIs
-- API integration
+- Routing and middleware
+- CRUD operations
 - Authentication concepts
+- Error handling
 
-### Database
+### <em>Database</em>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- MongoDB fundamentals
+- MongoDB
+- MongoDB Atlas
+- Mongoose
 - Collections and documents
 - CRUD operations
-- Schema/model concepts
-- Database integration
+- Data modeling
 
 ---
 
-# 🧰 Development Tools
+# <em>🧰 Tools</em>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -101,42 +87,45 @@ My current development focus is:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- Git & GitHub
-- VS Code
-- Postman
-- Vercel
-- Figma
-- Browser Developer Tools
-
 ---
 
-# 🌟 Featured Web Development Projects
+# <em>🚀 Featured Projects</em>
 
-## 🛍️ Flipkart Clone — Frontend
+## <em>🛍️ Flipkart Clone — Frontend</em>
 
-A responsive e-commerce-style frontend demonstrating product layouts, navigation, search UI, categories, promotional sections and interactive UI elements.
+Responsive e-commerce frontend demonstrating product cards, categories, navigation, promotional sections, hover interactions and JavaScript UI functionality.
 
 **Tech:** HTML • CSS • JavaScript
 
 🔗 **Repository:** https://github.com/palleprashanthp4-dev/flipkart-clone-frontend  
 🚀 **Live Demo:** https://flipkart-clone-frontend-r878.vercel.app/
 
+### <em>Project Screenshots</em>
+
+<img width="1470" alt="Flipkart Clone Screenshot 1" src="https://user-images.githubusercontent.com/108738197/230642491-f2477dfa-101d-4a6b-bb47-8c2a442065d6.png">
+
+<img width="1468" alt="Flipkart Clone Screenshot 2" src="https://user-images.githubusercontent.com/108738197/230642998-76fc94ed-c5e7-455f-9eaa-8ecc26fa3377.png">
+
 ---
 
-## 💍 UstavVibhav Wedding Planners
+## <em>💍 UstavVibhav Wedding Planners</em>
 
-A premium Indian wedding-planning website focused on responsive UI, animations, service presentation, enquiry flow and digital wedding experiences.
+Premium Indian wedding-planning website focused on traditional visual design, responsive UI, animations, gallery interactions and WhatsApp enquiry flow.
 
 **Tech:** HTML • CSS • JavaScript
 
 🔗 **Repository:** https://github.com/palleprashanthp4-dev/ustavvibhav-wedding-planners  
 🚀 **Live Demo:** https://ustavvibhav-wedding-planners.vercel.app/
 
+### <em>Project Screenshot</em>
+
+<img src="https://github.com/palleprashanthp4-dev/ustavvibhav-wedding-planners/blob/main/Screenshot%202026-09-11%20155200.png?raw=true" width="900" alt="UstavVibhav Wedding Planners screenshot"/>
+
 ---
 
-## 💼 Digital Socket
+## <em>💼 Digital Socket</em>
 
-A startup-oriented digital services website concept designed to present web development, app development, UI/UX, digital marketing and other business-growth services.
+Startup-oriented digital services website concept for presenting web development, app development, UI/UX, digital marketing and business-growth services.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -144,9 +133,9 @@ A startup-oriented digital services website concept designed to present web deve
 
 ---
 
-## 🎓 Learno Discovery
+## <em>🎓 Learno Discovery</em>
 
-A learning-resource discovery platform concept for finding courses, tutorials, career resources and structured learning paths.
+Learning and career-discovery platform concept for exploring learning resources, technology topics and structured learning paths.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -155,74 +144,70 @@ A learning-resource discovery platform concept for finding courses, tutorials, c
 
 ---
 
-## 💊 Pharmacy E-Commerce Web App
+## <em>💊 Pharmacy E-Commerce Web App</em>
 
-E-commerce web application project focused on product browsing, pharmacy-oriented UI and online shopping experience.
-
-**Tech:** Web Development
+E-commerce project focused on product browsing and pharmacy-oriented shopping UI.
 
 🔗 **Repository:** https://github.com/palleprashanthp4-dev/pharmacy-ecommerce-web-app
 
 ---
 
-## 👕 Urban Wear E-Commerce
+## <em>👕 Urban Wear E-Commerce</em>
 
 E-commerce interface project focused on product presentation, shopping UI and responsive web design.
-
-**Tech:** Web Development
 
 🔗 **Repository:** https://github.com/palleprashanthp4-dev/urban-wear-Ecom-project
 
 ---
 
-## 📄 Offer Letter Generator
+# <em>📊 Data Analytics Background</em>
 
-A browser-based HR utility for creating professional offer-letter documents.
+My AI & Data Science background also gives me practical experience with **data, dashboards, KPIs and business analysis**.
 
-**Tech:** HTML • CSS • JavaScript
+### <em>HR Analytics Dashboard</em>
 
-🔗 **Repository:** https://github.com/palleprashanthp4-dev/Offer-Letter-Generator
+**Power BI • Excel • HR Analytics**
 
----
+🔗 https://github.com/palleprashanthp4-dev/HR-Analytics-Dashboard
 
-## 🧾 Pay Slip Generator
+<img src="https://github.com/DataVizExpert-Sham/HR-Gender-Diversity-KPIs-in-Power-BI/assets/151017676/54257bbc-d140-4ffa-9e14-73fe988a30a2" width="850" alt="HR Analytics KPI dashboard"/>
 
-A web-based utility for generating employee salary-slip layouts.
+<img src="https://github.com/DataVizExpert-Sham/HR-Gender-Diversity-KPIs-in-Power-BI/assets/151017676/a8a45572-c11c-4e86-a327-8aa63d00ddca" width="850" alt="HR Diversity dashboard"/>
 
-**Tech:** HTML • CSS • JavaScript
+### <em>Employee Payroll Management</em>
 
-🔗 **Repository:** https://github.com/palleprashanthp4-dev/pay-slip-generator
+**Microsoft Excel • Payroll Analysis**
 
----
+🔗 https://github.com/palleprashanthp4-dev/Employee-Payroll-Management
 
-# 📊 Data & Analytics Background
-
-Alongside web development, I have worked on data-analysis and dashboard projects. This background helps me build applications with a stronger understanding of **data, KPIs, dashboards and business workflows**.
-
-### Projects
-
-- **HR Analytics Dashboard** — Power BI / HR analytics  
-  https://github.com/palleprashanthp4-dev/HR-Analytics-Dashboard
-
-- **Employee Payroll Management** — Excel / payroll workflow  
-  https://github.com/palleprashanthp4-dev/Employee-Payroll-Management
-
-- **Student Performance Analysis** — data analysis  
-  https://github.com/palleprashanthp4-dev/student-performance-analysis
-
-- **Hospital Analysis Project** — data analysis  
-  https://github.com/palleprashanthp4-dev/Hospital--Analysis--Project
-
-- **Web Scraping Data Analysis** — scraping / data analysis  
-  https://github.com/palleprashanthp4-dev/Web-Scraping-Data-Analysis-Project
-
-This section represents supporting experience and is separate from my primary **MERN Stack development focus**.
+<img src="https://github.com/mademoixcel/Payroll/assets/124081194/f363cd09-690a-433b-8fd4-67995406d19e" width="850" alt="Employee Payroll screenshot"/>
 
 ---
 
-# 🏗️ MERN Projects I Am Building Toward
+# <em>🗺️ MERN Developer Roadmap</em>
 
-My goal is to convert my frontend projects into complete full-stack applications by adding:
+<div align="center">
+
+**HTML + CSS** → **JavaScript** → **React** → **Node.js** → **Express.js** → **MongoDB** → **REST APIs** → **Authentication** → **Full-Stack Projects** → **Deployment**
+
+</div>
+
+### <em>Current Focus</em>
+
+- Build React applications
+- Build Node + Express APIs
+- Connect MongoDB databases
+- Implement authentication
+- Build CRUD applications
+- Connect frontend and backend
+- Deploy full-stack applications
+- Build portfolio-quality products
+
+---
+
+# <em>🏗️ Full-Stack Development Direction</em>
+
+The next stage of my projects is to evolve frontend applications into complete MERN applications:
 
 ```text
 React Frontend
@@ -233,92 +218,37 @@ Node.js Backend
       ↓
 MongoDB Database
       ↓
-Authentication & Authorization
+Authentication
       ↓
 Deployment
 ```
 
-Planned full-stack applications:
+Planned applications include:
 
-- E-commerce platform
-- Learning management system
-- HR management system
-- Wedding planning management system
-- Business service management platform
-- Job application tracker
-
----
-
-# 📚 Current Learning Roadmap
-
-### Phase 1 — JavaScript
-
-- ES6+
-- Async/Await
-- Promises
-- Fetch API
-- Modules
-- DOM
-
-### Phase 2 — React
-
-- Components
-- Props
-- State
-- Hooks
-- Forms
-- React Router
-- API integration
-
-### Phase 3 — Node.js & Express
-
-- HTTP
-- REST APIs
-- Routing
-- Middleware
-- Authentication
-- Error handling
-
-### Phase 4 — MongoDB
-
-- CRUD
-- Mongoose
-- Data modeling
-- Relationships
-- Queries
-
-### Phase 5 — Full Stack
-
-- Connect React + Express
-- Authentication
-- Protected routes
-- CRUD applications
-- File uploads
-- API security
-
-### Phase 6 — Deployment
-
-- GitHub
-- Vercel
-- Backend deployment
-- Environment variables
-- Production configuration
+- Full-stack e-commerce platform
+- Learning Management System
+- HR Management System
+- Wedding Planning Management System
+- Business Service Management Platform
+- Job Application Tracker
 
 ---
 
-# 🎯 Career Focus
+# <em>🎯 Career Focus</em>
 
 <div align="center">
 
-`MERN Stack Developer` · `Full-Stack Developer` · `Frontend Developer` · `React Developer` · `Node.js Developer` · `JavaScript Developer`
+### <em>MERN Stack Developer</em>
+
+**Full-Stack Developer • React Developer • Node.js Developer • JavaScript Developer**
 
 </div>
 
-I am especially interested in building **real-world business applications**, dashboards, e-commerce platforms, learning platforms and management systems using the MERN stack.
+I am especially interested in building **real-world business applications, dashboards, e-commerce platforms, learning platforms and management systems** using the MERN stack.
 
 ---
 
-# 📫 Connect With Me
+# <em>📫 Connect With Me</em>
 
 <div align="center">
 
@@ -332,12 +262,12 @@ I am especially interested in building **real-world business applications**, das
 
 <div align="center">
 
-### 🚀 Learn • Build • Deploy • Improve
+### <em>🚀 Learn • Build • Deploy • Improve</em>
 
 <i>Building my journey toward becoming a strong MERN Stack Developer.</i>
 
 <br><br>
 
-⭐ <b>If you find my projects useful, consider starring the repositories!</b>
+⭐ <strong>If you find my projects useful, feel free to explore and star the repositories!</strong>
 
 </div>
