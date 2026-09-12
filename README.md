@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/palleprashanthp4-dev/palleprashanthp4-dev/main/assets/mern-linkedin-banner.svg" alt="Palle Prashanth — MERN Stack Developer" />
+<img width="100%" src="https://raw.githubusercontent.com/palleprashanthp4-dev/palleprashanthp4-dev/main/assets/mern-stack-linkedin-banner.svg" alt="Palle Prashanth — MERN Stack Developer" />
 
 <br>
 
