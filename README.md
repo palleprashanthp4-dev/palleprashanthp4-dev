@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/palleprashanthp4-dev/palleprashanthp4-dev/main/assets/full-stack-ai-vibe-coding-banner.svg" alt="Palle Prashanth — Full-Stack Developer, AI Tools & Vibe Coder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1E293B,100:7C3AED&height=250&section=header&text=PALLE%20PRASHANTH&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%20%E2%80%A2%20%20AI%20TOOLS%20%20%E2%80%A2%20%20VIBE%20CODER&descAlignY=58&descSize=18&descColor=CBD5E1" alt="Palle Prashanth — Full-Stack Developer, AI Tools & Vibe Coder" />
 
 <br>
 
@@ -217,8 +217,4 @@
 <a href="mailto:palleprashanthcareer@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/palleprashanthp4-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/palle-prashanth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br><br>
-<em>𝓛𝓮𝓪𝓻𝓷 • 𝓑𝓾𝓲𝓵𝓭 • 𝓤𝓼𝓮 𝓐𝓘 • 𝓢𝓱𝓲𝓹 • 𝓘𝓶𝓹𝓻𝓸𝓿𝓮</em>
-<br><br>
-⭐ <i>Thanks for visiting my profile!</i>
 </div>
