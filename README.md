@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/palleprashanthp4-dev/palleprashanthp4-dev/main/assets/mern-cursive-banner.svg" alt="Palle Prashanth MERN Stack Developer banner" />
+<img width="100%" src="https://raw.githubusercontent.com/palleprashanthp4-dev/palleprashanthp4-dev/main/assets/mern-linkedin-banner.svg" alt="Palle Prashanth — MERN Stack Developer" />
 
 <br>
 
 ### ✦ <em>𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝔀𝓸𝓻𝓵𝓭</em> ✦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=23&duration=2800&pause=800&color=D4A24C&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Full-Stack+Web+Development;REST+APIs+%7C+CRUD+%7C+Authentication;Responsive+UI%2FUX+%7C+JavaScript;Building+Real-World+Web+Projects" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=23&duration=2800&pause=800&color=61DAFB&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Full-Stack+Web+Development;REST+APIs+%7C+CRUD+%7C+Authentication;Responsive+UI%2FUX+%7C+JavaScript;Building+Real-World+Web+Projects" alt="Typing animation" />
 
 <br><br>
 
@@ -37,16 +37,7 @@
 # ✨ 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,github,vscode,postman" alt="MERN and web technologies" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
 </div>
 
 ### ⚛️ <em>𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭</em>
@@ -66,63 +57,50 @@
 # 🚀 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
 
 ## 💍 𝓤𝓼𝓽𝓪𝓿𝓥𝓲𝓫𝓱𝓪𝓿 𝓦𝓮𝓭𝓭𝓲𝓷𝓰 𝓟𝓵𝓪𝓷𝓷𝓮𝓻𝓼
-
 <i>A premium Indian wedding-planning website focused on traditional design, responsive UI, smooth animations, gallery interactions and WhatsApp enquiry flow.</i>
 
-**Tech:** <i>HTML • CSS • JavaScript</i>
-
+**Tech:** <i>HTML • CSS • JavaScript</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/ustavvibhav-wedding-planners"><i>Repository</i></a> • 🚀 <a href="https://ustavvibhav-wedding-planners.vercel.app/"><i>Live Demo</i></a>
 
 ---
 
 ## 🛍️ 𝓕𝓵𝓲𝓹𝓴𝓪𝓻𝓽 𝓒𝓵𝓸𝓷𝓮 — 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭
-
 <i>A responsive e-commerce frontend inspired by modern online shopping platforms with product cards, categories, navigation, promotional sections, hover interactions and JavaScript functionality.</i>
 
-**Tech:** <i>HTML • CSS • JavaScript</i>
-
+**Tech:** <i>HTML • CSS • JavaScript</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/flipkart-clone-frontend"><i>Repository</i></a> • 🚀 <a href="https://flipkart-clone-frontend-r878.vercel.app/"><i>Live Demo</i></a>
 
 ---
 
 ## 💼 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓢𝓸𝓵𝓾𝓽𝓲𝓸𝓷𝓼
-
 <i>A startup-oriented digital services website concept for presenting web development, app development, UI/UX, digital marketing and business-growth solutions.</i>
 
-**Tech:** <i>Next.js • TypeScript</i>
-
+**Tech:** <i>Next.js • TypeScript</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/digital-socket"><i>Repository</i></a>
 
 ---
 
 ## 🎓 𝓛𝓮𝓪𝓻𝓷𝓸 𝓓𝓲𝓼𝓬𝓸𝓿𝓮𝓻𝔂
-
 <i>A learning and career-discovery platform concept for exploring technology resources and structured learning paths.</i>
 
-**Tech:** <i>HTML • CSS • JavaScript</i>
-
+**Tech:** <i>HTML • CSS • JavaScript</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/learno-discovery"><i>Repository</i></a> • 🚀 <a href="https://learno-discovery.vercel.app/"><i>Live Demo</i></a>
 
 ---
 
 ## 💊 𝓟𝓱𝓪𝓻𝓶𝓪𝓬𝔂 𝓔-𝓒𝓸𝓶𝓶𝓮𝓻𝓬𝓮
-
-<i>E-commerce project focused on product browsing and pharmacy-oriented shopping UI.</i>
-
+<i>E-commerce project focused on product browsing and pharmacy-oriented shopping UI.</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/pharmacy-ecommerce-web-app"><i>Repository</i></a>
 
 ---
 
 ## 👕 𝓤𝓻𝓫𝓪𝓷 𝓦𝓮𝓪𝓻 𝓔-𝓒𝓸𝓶𝓶𝓮𝓻𝓬𝓮
-
-<i>E-commerce interface project focused on product presentation, shopping UI and responsive web design.</i>
-
+<i>E-commerce interface project focused on product presentation, shopping UI and responsive web design.</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/urban-wear-Ecom-project"><i>Repository</i></a>
 
 ---
 
 # 📊 𝓓𝓪𝓽𝓪 & 𝓐𝓷𝓪𝓵𝔂𝓽𝓲𝓬𝓼
-
 <i>My Artificial Intelligence & Data Science background also gives me practical experience with dashboards, KPIs and business analysis.</i>
 
 | <em>Project</em> | <em>Technology</em> | <em>Repository</em> |
@@ -133,7 +111,6 @@
 ---
 
 # 🔐 𝓜𝓔𝓡𝓝 𝓢𝓴𝓲𝓵𝓵𝓼 𝓘 𝓐𝓶 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰
-
 - ⚛️ <i>React component development</i>
 - 🧩 <i>React state and props</i>
 - 🔄 <i>REST API integration</i>
@@ -150,13 +127,11 @@
 ---
 
 # 🗺️ 𝓜𝔂 𝓜𝓔𝓡𝓝 𝓡𝓸𝓪𝓭𝓶𝓪𝓹
-
 <div align="center">
 
 ### <i>HTML + CSS → JavaScript → React → Node.js → Express.js → MongoDB → REST APIs → Authentication → Full-Stack Projects → Deployment</i>
 
 <br>
-
 <img src="https://img.shields.io/badge/HTML%20%26%20CSS-✅%20Done-E34F26?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JavaScript-✅%20Done-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-🔥%20Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -169,7 +144,6 @@
 ---
 
 # 🏗️ 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓥𝓲𝓼𝓲𝓸𝓷
-
 ```text
               React Frontend ⚛️
                      ↓
@@ -183,56 +157,37 @@
                      ↓
                 Deployment ☁️
 ```
-
 <i>Building toward complete applications such as e-commerce platforms, learning systems, HR systems, wedding platforms, business portals and job trackers.</i>
 
 ---
 
 # 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4A24C&icon_color=B87916&text_color=ffffff" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4A24C&text_color=ffffff" alt="Top Languages" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=47A248&text_color=ffffff" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff" alt="Top Languages" />
 <br><br>
-
-<img src="https://streak-stats.demolab.com?user=palleprashanthp4-dev&hide_border=true&background=0D1117&ring=D4A24C&fire=B87916&currStreakLabel=D4A24C" alt="GitHub Streak" width="70%" />
-
+<img src="https://streak-stats.demolab.com?user=palleprashanthp4-dev&hide_border=true&background=0D1117&ring=61DAFB&fire=47A248&currStreakLabel=61DAFB" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
 
 # 🎯 𝓒𝓪𝓻𝓮𝓮𝓻 𝓕𝓸𝓬𝓾𝓼
-
 <div align="center">
-
 ## <em>𝓜𝓔𝓡𝓝 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</em>
-
 <i>Full-Stack Developer • React Developer • Node.js Developer • JavaScript Developer</i>
-
 <br><br>
-
 <i>Building responsive, scalable and real-world web applications with the MERN stack.</i>
-
 </div>
 
 ---
 
 # 📫 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽
-
 <div align="center">
-
 <a href="mailto:palleprashanthcareer@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/palleprashanthp4-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/palle-prashanth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <br><br>
-
 <em>𝓛𝓮𝓪𝓻𝓷 • 𝓑𝓾𝓲𝓵𝓭 • 𝓓𝓮𝓹𝓵𝓸𝔂 • 𝓘𝓶𝓹𝓻𝓸𝓿𝓮</em>
-
 <br><br>
-
 ⭐ <i>Thanks for visiting my profile!</i>
-
 </div>
