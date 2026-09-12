@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Palle Prashanth — MERN Stack Developer</title>
+<desc id="desc">Professional LinkedIn-style developer banner featuring MERN Stack, Full-Stack Development, React, Node.js, Express.js and MongoDB.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="0.55" stop-color="#0d1b2e"/><stop offset="1" stop-color="#12263f"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#61dafb"/><stop offset="0.5" stop-color="#68a063"/><stop offset="1" stop-color="#47a248"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+<circle cx="1090" cy="70" r="150" fill="#61dafb" opacity=".07"/>
+<circle cx="1170" cy="330" r="180" fill="#47a248" opacity=".06"/>
+<path d="M0 350 C260 270 410 450 690 350 S1050 250 1280 330 V420 H0Z" fill="#050b14" opacity=".48"/>
+<rect x="70" y="72" width="7" height="276" rx="3.5" fill="url(#accent)" filter="url(#glow)"/>
+<text x="110" y="128" fill="#ffffff" font-family="Georgia,serif" font-size="28" letter-spacing="4">PALLE PRASHANTH</text>
+<text x="110" y="192" fill="#ffffff" font-family="Arial,sans-serif" font-size="56" font-weight="700">MERN Stack Developer</text>
+<text x="113" y="236" fill="#b8c7d9" font-family="Arial,sans-serif" font-size="23">Building modern • responsive • full-stack web applications</text>
+<text x="113" y="286" fill="#ffffff" font-family="Arial,sans-serif" font-size="20" font-weight="600">MongoDB  •  Express.js  •  React  •  Node.js</text>
+<g transform="translate(110 320)">
+  <rect width="132" height="38" rx="19" fill="#61dafb" opacity=".13" stroke="#61dafb"/>
+  <text x="66" y="25" text-anchor="middle" fill="#61dafb" font-family="Arial,sans-serif" font-size="15" font-weight="700">REACT</text>
+  <rect x="148" width="145" height="38" rx="19" fill="#68a063" opacity=".13" stroke="#68a063"/>
+  <text x="220" y="25" text-anchor="middle" fill="#9dcc91" font-family="Arial,sans-serif" font-size="15" font-weight="700">NODE.JS</text>
+  <rect x="309" width="154" height="38" rx="19" fill="#47a248" opacity=".13" stroke="#47a248"/>
+  <text x="386" y="25" text-anchor="middle" fill="#79d276" font-family="Arial,sans-serif" font-size="15" font-weight="700">MONGODB</text>
+  <rect x="479" width="145" height="38" rx="19" fill="#ffffff" opacity=".08" stroke="#8fa7c1"/>
+  <text x="551" y="25" text-anchor="middle" fill="#d7e2ef" font-family="Arial,sans-serif" font-size="15" font-weight="700">REST APIs</text>
+</g>
+<g transform="translate(1040 145)">
+  <circle cx="0" cy="0" r="86" fill="none" stroke="#61dafb" stroke-width="3" opacity=".55"/>
+  <ellipse cx="0" cy="0" rx="86" ry="32" fill="none" stroke="#61dafb" stroke-width="3" opacity=".45" transform="rotate(60)"/>
+  <ellipse cx="0" cy="0" rx="86" ry="32" fill="none" stroke="#61dafb" stroke-width="3" opacity=".45" transform="rotate(-60)"/>
+  <circle cx="0" cy="0" r="13" fill="#61dafb"/>
+</g>
+<text x="1038" y="274" text-anchor="middle" fill="#8fa7c1" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">FULL-STACK</text>
+<text x="1038" y="302" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="22" font-weight="700">DEVELOPMENT</text>
+</svg>
