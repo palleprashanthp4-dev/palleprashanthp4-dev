@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1E293B,100:7C3AED&height=250&section=header&text=PALLE%20PRASHANTH&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%20%E2%80%A2%20%20AI%20TOOLS%20%20%E2%80%A2%20%20VIBE%20CODER&descAlignY=58&descSize=18&descColor=CBD5E1" alt="Palle Prashanth — Full-Stack Developer, AI Tools & Vibe Coder" />
+<img width="100%" src="./assets/profile-banner.svg" alt="Palle Prashanth — Full-Stack Developer, MERN, AI Tools & Vibe Coder" />
 
 <br>
 
-### ✦ <em>𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝔀𝓸𝓻𝓵𝓭</em> ✦
+### ✦ 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓟𝓻𝓸𝓭𝓾𝓬𝓽𝓼 𝔀𝓲𝓽𝓱 𝓒𝓸𝓭𝓮 + 𝓐𝓘 ✦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=23&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+%7C+JavaScript+%7C+Web+Development;AI-Assisted+Development;Vibe+Coder+%7C+Rapid+Prototyping;Building+Real-World+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+%7C+JavaScript+%7C+React+%7C+Node.js;Express.js+%7C+MongoDB+%7C+REST+APIs;AI-Assisted+Developer+%7C+Vibe+Coder;Rapid+Prototyping+%7C+Real-World+Web+Apps;Turning+Ideas+into+Working+Products" alt="Developer skills typing animation" />
 
-<br><br>
+<br>
 
 <a href="mailto:palleprashanthcareer@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/palleprashanthp4-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -20,9 +20,9 @@
 
 # 🌐 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-<i>I am Palle Prashanth, a B.Tech student in Artificial Intelligence & Data Science and an aspiring Full-Stack Developer.</i>
+<i>I am Palle Prashanth, a B.Tech student in Artificial Intelligence & Data Science and a Full-Stack Developer in progress.</i>
 
-<i>I build modern web applications from frontend to backend, experiment with AI tools to accelerate development, and use vibe-coding workflows to turn ideas into working products faster.</i>
+<i>I build modern web applications across the frontend and backend, use AI tools as a development partner, and follow vibe-coding workflows to prototype, debug, iterate and ship faster.</i>
 
 🎓 <i><b>B.Tech — Artificial Intelligence & Data Science</b></i>  
 🏫 <i>RSR Engineering College, Kavali</i>  
@@ -37,22 +37,22 @@
 # ⚡ 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,typescript,html,css,git,github,vscode,postman,figma" alt="Full-stack technologies" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,typescript,html,css,git,github,vscode,postman,figma" alt="Full-stack technology stack" />
 </div>
 
-### ⚛️ <em>𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭</em>
+### ⚛️ <em>Frontend</em>
 <i>HTML5 • CSS3 • JavaScript • React.js • TypeScript • Responsive UI/UX • API Integration</i>
 
-### 🟢 <em>𝓑𝓪𝓬𝓴𝓮𝓷𝓭</em>
+### 🟢 <em>Backend</em>
 <i>Node.js • Express.js • REST APIs • Routing • Middleware • CRUD • Authentication</i>
 
-### 🍃 <em>𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮</em>
+### 🍃 <em>Database</em>
 <i>MongoDB • MongoDB Atlas • Mongoose • Data Modeling • CRUD Operations</i>
 
-### 🤖 <em>𝓐𝓘 & 𝓥𝓲𝓫𝓮 𝓒𝓸𝓭𝓲𝓷𝓰</em>
+### 🤖 <em>AI + Vibe Coding</em>
 <i>AI-assisted coding • Prompt-driven development • Rapid prototyping • Debugging with AI • Idea-to-product workflows</i>
 
-### 🛠️ <em>𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 𝓣𝓸𝓸𝓵𝓼</em>
+### 🛠️ <em>Tools</em>
 <i>Git • GitHub • VS Code • Postman • Vercel • Figma</i>
 
 ---
@@ -60,7 +60,7 @@
 # 🚀 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
 
 ## 💍 𝓤𝓼𝓽𝓪𝓿𝓥𝓲𝓫𝓱𝓪𝓿 𝓦𝓮𝓭𝓭𝓲𝓷𝓰 𝓟𝓵𝓪𝓷𝓷𝓮𝓻𝓼
-<i>A premium Indian wedding-planning website focused on traditional design, responsive UI, smooth animations, gallery interactions and WhatsApp enquiry flow.</i>
+<i>Premium Indian wedding-planning website with traditional visual design, responsive UI, smooth animations, gallery interactions and WhatsApp enquiry flow.</i>
 
 **Tech:** <i>HTML • CSS • JavaScript</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/ustavvibhav-wedding-planners"><i>Repository</i></a> • 🚀 <a href="https://ustavvibhav-wedding-planners.vercel.app/"><i>Live Demo</i></a>
@@ -68,7 +68,7 @@
 ---
 
 ## 🛍️ 𝓕𝓵𝓲𝓹𝓴𝓪𝓻𝓽 𝓒𝓵𝓸𝓷𝓮 — 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭
-<i>A responsive e-commerce frontend inspired by modern online shopping platforms with product cards, categories, navigation, promotional sections, hover interactions and JavaScript functionality.</i>
+<i>Responsive e-commerce frontend with product cards, categories, navigation, promotional sections, hover interactions and JavaScript functionality.</i>
 
 **Tech:** <i>HTML • CSS • JavaScript</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/flipkart-clone-frontend"><i>Repository</i></a> • 🚀 <a href="https://flipkart-clone-frontend-r878.vercel.app/"><i>Live Demo</i></a>
@@ -76,7 +76,7 @@
 ---
 
 ## 💼 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓢𝓸𝓵𝓾𝓽𝓲𝓸𝓷𝓼
-<i>A startup-oriented digital services website concept for presenting web development, app development, UI/UX, digital marketing and business-growth solutions.</i>
+<i>Startup-oriented digital services website concept covering web development, app development, UI/UX, digital marketing and business-growth solutions.</i>
 
 **Tech:** <i>Next.js • TypeScript</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/digital-socket"><i>Repository</i></a>
@@ -84,7 +84,7 @@
 ---
 
 ## 🎓 𝓛𝓮𝓪𝓻𝓷𝓸 𝓓𝓲𝓼𝓬𝓸𝓿𝓮𝓻𝔂
-<i>A learning and career-discovery platform concept for exploring technology resources and structured learning paths.</i>
+<i>Learning and career-discovery platform concept for exploring technology resources and structured learning paths.</i>
 
 **Tech:** <i>HTML • CSS • JavaScript</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/learno-discovery"><i>Repository</i></a> • 🚀 <a href="https://learno-discovery.vercel.app/"><i>Live Demo</i></a>
@@ -98,12 +98,13 @@
 ---
 
 ## 👕 𝓤𝓻𝓫𝓪𝓷 𝓦𝓮𝓪𝓻 𝓔-𝓒𝓸𝓶𝓶𝓮𝓻𝓬𝓮
-<i>E-commerce interface project focused on product presentation, shopping UI and responsive web design.</i>  
+<i>E-commerce interface focused on product presentation, shopping UI and responsive web design.</i>  
 🔗 <a href="https://github.com/palleprashanthp4-dev/urban-wear-Ecom-project"><i>Repository</i></a>
 
 ---
 
 # 📊 𝓓𝓪𝓽𝓪 & 𝓐𝓷𝓪𝓵𝔂𝓽𝓲𝓬𝓼
+
 <i>My Artificial Intelligence & Data Science background also gives me practical experience with dashboards, KPIs and business analysis.</i>
 
 | <em>Project</em> | <em>Technology</em> | <em>Repository</em> |
@@ -117,7 +118,7 @@
 
 <div align="center">
 
-<i>Using AI tools as a development partner — not a replacement for understanding code.</i>
+<i>AI is my development partner — helping me move from idea to prototype to product faster.</i>
 
 <br><br>
 
@@ -131,9 +132,10 @@
 
 ---
 
-# 🔐 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓢𝓴𝓲𝓵𝓵𝓼 𝓘 𝓐𝓶 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰
+# 🔐 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓢𝓴𝓲𝓵𝓵𝓼
+
 - ⚛️ <i>React component development</i>
-- 🧩 <i>State, props and reusable UI</i>
+- 🧩 <i>Reusable UI, state and props</i>
 - 🔄 <i>REST API integration</i>
 - 🟢 <i>Node.js backend development</i>
 - 🚀 <i>Express.js API development</i>
@@ -142,19 +144,20 @@
 - 🔐 <i>Authentication and authorization</i>
 - 📝 <i>CRUD applications</i>
 - 📡 <i>API testing with Postman</i>
-- ☁️ <i>Full-stack deployment</i>
-- 🤖 <i>AI-assisted development workflows</i>
-- ⚡ <i>Vibe coding and rapid product prototyping</i>
-- 🔗 <i>Git and GitHub workflow</i>
+- ☁️ <i>Deployment and Git workflows</i>
+- 🤖 <i>AI-assisted development</i>
+- ⚡ <i>Vibe coding and rapid prototyping</i>
 
 ---
 
-# 🗺️ 𝓜𝔂 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓡𝓸𝓪𝓭𝓶𝓪𝓹
+# 🗺️ 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓡𝓸𝓪𝓭𝓶𝓪𝓹
+
 <div align="center">
 
 ### <i>HTML + CSS → JavaScript → React → Node.js → Express.js → MongoDB → REST APIs → Authentication → AI-Assisted Development → Full-Stack Projects → Deployment</i>
 
 <br>
+
 <img src="https://img.shields.io/badge/HTML%20%26%20CSS-✅%20Done-E34F26?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JavaScript-✅%20Done-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-🔥%20Building-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -167,37 +170,19 @@
 
 ---
 
-# 🏗️ 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓥𝓲𝓼𝓲𝓸𝓷
-```text
-              React Frontend ⚛️
-                     ↓
-             Express.js REST API
-                     ↓
-              Node.js Backend 🟢
-                     ↓
-              MongoDB Database 🍃
-                     ↓
-               Authentication 🔐
-                     ↓
-              AI-Assisted Build 🤖
-                     ↓
-                Deployment ☁️
-```
-<i>Building toward complete applications such as e-commerce platforms, learning systems, HR systems, wedding platforms, business portals and job trackers.</i>
-
----
-
 # 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
+
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=ffffff" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=ffffff" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=ffffff" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=ffffff" alt="Top Languages" />
 <br><br>
-<img src="https://streak-stats.demolab.com?user=palleprashanthp4-dev&hide_border=true&background=0D1117&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=palleprashanthp4-dev&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
 
 # 🎯 𝓒𝓪𝓻𝓮𝓮𝓻 𝓕𝓸𝓬𝓾𝓼
+
 <div align="center">
 
 ## <em>𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</em>
@@ -213,8 +198,15 @@
 ---
 
 # 📫 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽
+
 <div align="center">
-<a href="mailto:palleprashanthcareer@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/palleprashanthp4-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/palle-prashanth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/palle-prashanth/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:palleprashanthcareer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/palleprashanthp4-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+<em>✦ Open to opportunities, collaborations and building meaningful digital products. ✦</em>
+
 </div>
