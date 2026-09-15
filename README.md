@@ -180,12 +180,12 @@ My Artificial Intelligence & Data Science background also gives me practical exp
 
 ## 📈 GITHUB STATS
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&hide_border=true&rank_icon=github&bg_color=0f172a&title_color=f8fafc&icon_color=94a3b8&text_color=f8fafc&cache_seconds=1800" alt="Palle Prashanth GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=f8fafc&cache_seconds=1800" alt="Palle Prashanth Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=palleprashanthp4-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0f172a&title_color=f8fafc&icon_color=94a3b8&text_color=f8fafc&cache_seconds=1800" width="49%" alt="Palle Prashanth GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palleprashanthp4-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=f8fafc&cache_seconds=1800" width="49%" alt="Palle Prashanth Top Languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=palleprashanthp4-dev&hide_border=true&background=0f172a&stroke=334155&ring=94a3b8&fire=f8fafc&currStreakLabel=f8fafc&sideLabels=f8fafc&dates=94a3b8" alt="Palle Prashanth GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=palleprashanthp4-dev&theme=dark&hide_border=true&background=0f172a&ring=94a3b8&fire=f8fafc&currStreakLabel=f8fafc&sideLabels=f8fafc&dates=f8fafc" width="70%" alt="Palle Prashanth GitHub Contribution Streak" />
 
 </div>
 
